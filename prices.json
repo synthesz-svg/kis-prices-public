@@ -10,9 +10,9 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 723.03,
+    "price": null,
     "currency": "USD",
-    "error": null,
+    "error": "QQQ 조회 실패: Gateway 라우팅 오류가 발생했습니다.",
     "source": "KIS Open API"
   },
   "spcx": {
@@ -31,6 +31,6 @@
     "error": null,
     "source": "Frankfurter API"
   },
-  "updated_at": "2026-08-10 03:55:02 KST",
-  "updated_at_utc": "2026-08-09T18:55:02.175101+00:00"
+  "updated_at": "2026-08-10 04:00:08 KST",
+  "updated_at_utc": "2026-08-09T19:00:08.797729+00:00"
 }
