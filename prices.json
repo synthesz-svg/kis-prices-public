@@ -18,9 +18,9 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 133.11,
+    "price": null,
     "currency": "USD",
-    "error": null,
+    "error": "SPCX 조회 실패: 초당 거래건수를 초과하였습니다.",
     "source": "KIS Open API"
   },
   "usd_krw": {
@@ -31,6 +31,6 @@
     "error": null,
     "source": "Frankfurter API"
   },
-  "updated_at": "2026-08-10 06:31:20 KST",
-  "updated_at_utc": "2026-08-09T21:31:20.056862+00:00"
+  "updated_at": "2026-08-10 06:36:22 KST",
+  "updated_at_utc": "2026-08-09T21:36:22.430106+00:00"
 }
