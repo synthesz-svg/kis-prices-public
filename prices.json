@@ -2,17 +2,17 @@
   "samsung": {
     "symbol": "005930",
     "name": "삼성전자",
-    "price": null,
+    "price": 231000.0,
     "currency": "KRW",
-    "error": "인증 실패: 접근토큰 발급 잠시 후 다시 시도하세요(1분당 1회)",
+    "error": null,
     "source": "KIS Open API"
   },
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": null,
+    "price": 723.03,
     "currency": "USD",
-    "error": "인증 실패: 접근토큰 발급 잠시 후 다시 시도하세요(1분당 1회)",
+    "error": null,
     "source": "KIS Open API"
   },
   "spcx": {
@@ -20,7 +20,7 @@
     "name": "SPCX",
     "price": null,
     "currency": "USD",
-    "error": "인증 실패: 접근토큰 발급 잠시 후 다시 시도하세요(1분당 1회)",
+    "error": "SPCX 조회 실패: 초당 거래건수를 초과하였습니다.",
     "source": "KIS Open API"
   },
   "usd_krw": {
@@ -31,6 +31,6 @@
     "error": null,
     "source": "Frankfurter API"
   },
-  "updated_at": "2026-08-09 22:51:39 KST",
-  "updated_at_utc": "2026-08-09T13:51:39.905087+00:00"
+  "updated_at": "2026-08-09 22:56:42 KST",
+  "updated_at_utc": "2026-08-09T13:56:42.329735+00:00"
 }
