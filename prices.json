@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 722.26,
+    "price": 722.02,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -31,6 +31,6 @@
     "error": null,
     "source": "Frankfurter API"
   },
-  "updated_at": "2026-08-11 00:04:50 KST",
-  "updated_at_utc": "2026-08-10T15:04:50.568082+00:00"
+  "updated_at": "2026-08-11 00:09:53 KST",
+  "updated_at_utc": "2026-08-10T15:09:53.322367+00:00"
 }
