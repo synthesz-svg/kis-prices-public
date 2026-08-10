@@ -2,7 +2,7 @@
   "samsung": {
     "symbol": "005930",
     "name": "삼성전자",
-    "price": 231250.0,
+    "price": 231500.0,
     "currency": "KRW",
     "error": null,
     "source": "KIS Open API"
@@ -10,9 +10,9 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": null,
+    "price": 723.03,
     "currency": "USD",
-    "error": "QQQ 조회 실패: 초당 거래건수를 초과하였습니다.",
+    "error": null,
     "source": "KIS Open API"
   },
   "spcx": {
@@ -31,6 +31,6 @@
     "error": null,
     "source": "Frankfurter API"
   },
-  "updated_at": "2026-08-10 14:20:01 KST",
-  "updated_at_utc": "2026-08-10T05:20:01.323218+00:00"
+  "updated_at": "2026-08-10 14:25:03 KST",
+  "updated_at_utc": "2026-08-10T05:25:03.823154+00:00"
 }
