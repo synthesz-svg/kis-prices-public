@@ -10,15 +10,15 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": null,
+    "price": 723.0008,
     "currency": "USD",
-    "error": "QQQ 조회 실패: 초당 거래건수를 초과하였습니다.",
+    "error": null,
     "source": "KIS Open API"
   },
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 133.93,
+    "price": 134.17,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -31,6 +31,6 @@
     "error": null,
     "source": "Frankfurter API"
   },
-  "updated_at": "2026-08-10 23:19:25 KST",
-  "updated_at_utc": "2026-08-10T14:19:25.080604+00:00"
+  "updated_at": "2026-08-10 23:24:27 KST",
+  "updated_at_utc": "2026-08-10T14:24:27.587426+00:00"
 }
