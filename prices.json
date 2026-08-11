@@ -2,7 +2,7 @@
   "samsung": {
     "symbol": "005930",
     "name": "삼성전자",
-    "price": 239250.0,
+    "price": 239500.0,
     "currency": "KRW",
     "error": null,
     "source": "KIS Open API"
@@ -31,6 +31,6 @@
     "error": null,
     "source": "Frankfurter API"
   },
-  "updated_at": "2026-08-11 12:08:59 KST",
-  "updated_at_utc": "2026-08-11T03:08:59.194469+00:00"
+  "updated_at": "2026-08-11 12:14:01 KST",
+  "updated_at_utc": "2026-08-11T03:14:01.744746+00:00"
 }
