@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 723.26,
+    "price": 723.36,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 138.4738,
+    "price": 138.53,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -31,6 +31,6 @@
     "error": null,
     "source": "Frankfurter API"
   },
-  "updated_at": "2026-08-11 21:58:58 KST",
-  "updated_at_utc": "2026-08-11T12:58:58.159756+00:00"
+  "updated_at": "2026-08-11 22:04:00 KST",
+  "updated_at_utc": "2026-08-11T13:04:00.691735+00:00"
 }
