@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 724.796,
+    "price": 724.5801,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 147.9401,
+    "price": 147.9779,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -31,6 +31,124 @@
     "error": null,
     "source": "Frankfurter API"
   },
-  "updated_at": "2026-08-13 04:09:15 KST",
-  "updated_at_utc": "2026-08-12T19:09:15.801786+00:00"
+  "samsung_flow": {
+    "symbol": "005930",
+    "name": "삼성전자 수급",
+    "intraday_estimate_raw": [
+      {
+        "bsop_hour_gb": "5",
+        "frgn_fake_ntby_qty": "000000000005795000",
+        "orgn_fake_ntby_qty": "000000000000698000",
+        "sum_fake_ntby_qty": "000000000006493000"
+      },
+      {
+        "bsop_hour_gb": "4",
+        "frgn_fake_ntby_qty": "000000000005254000",
+        "orgn_fake_ntby_qty": "000000000000731000",
+        "sum_fake_ntby_qty": "000000000005985000"
+      },
+      {
+        "bsop_hour_gb": "3",
+        "frgn_fake_ntby_qty": "000000000003229000",
+        "orgn_fake_ntby_qty": "000000000000347000",
+        "sum_fake_ntby_qty": "000000000003576000"
+      },
+      {
+        "bsop_hour_gb": "2",
+        "frgn_fake_ntby_qty": "000000000001114000",
+        "orgn_fake_ntby_qty": "000000000000205000",
+        "sum_fake_ntby_qty": "000000000001319000"
+      },
+      {
+        "bsop_hour_gb": "1",
+        "frgn_fake_ntby_qty": "000000000000636000",
+        "orgn_fake_ntby_qty": "000000000000000000",
+        "sum_fake_ntby_qty": "000000000000636000"
+      }
+    ],
+    "intraday_estimate_error": null,
+    "member_raw": [
+      {
+        "seln_mbcr_no1": "00005",
+        "seln_mbcr_no2": "00050",
+        "seln_mbcr_no3": "00017",
+        "seln_mbcr_no4": "00030",
+        "seln_mbcr_no5": "00003",
+        "seln_mbcr_name1": "미래에셋증권",
+        "seln_mbcr_name2": "키움증권",
+        "seln_mbcr_name3": "KB증권",
+        "seln_mbcr_name4": "삼성증권",
+        "seln_mbcr_name5": "한국증권",
+        "total_seln_qty1": "3776177",
+        "total_seln_qty2": "2416817",
+        "total_seln_qty3": "2343417",
+        "total_seln_qty4": "2186643",
+        "total_seln_qty5": "2154581",
+        "seln_mbcr_rlim1": "13.93",
+        "seln_mbcr_rlim2": "8.92",
+        "seln_mbcr_rlim3": "8.65",
+        "seln_mbcr_rlim4": "8.07",
+        "seln_mbcr_rlim5": "7.95",
+        "seln_qty_icdc1": "50556",
+        "seln_qty_icdc2": "77906",
+        "seln_qty_icdc3": "98377",
+        "seln_qty_icdc4": "244941",
+        "seln_qty_icdc5": "65444",
+        "shnu_mbcr_no1": "00043",
+        "shnu_mbcr_no2": "00003",
+        "shnu_mbcr_no3": "00005",
+        "shnu_mbcr_no4": "00017",
+        "shnu_mbcr_no5": "00037",
+        "shnu_mbcr_name1": "UBS",
+        "shnu_mbcr_name2": "한국증권",
+        "shnu_mbcr_name3": "미래에셋증권",
+        "shnu_mbcr_name4": "KB증권",
+        "shnu_mbcr_name5": "씨티그룹",
+        "total_shnu_qty1": "5632364",
+        "total_shnu_qty2": "3028075",
+        "total_shnu_qty3": "2475435",
+        "total_shnu_qty4": "2207053",
+        "total_shnu_qty5": "1579104",
+        "shnu_mbcr_rlim1": "20.78",
+        "shnu_mbcr_rlim2": "11.17",
+        "shnu_mbcr_rlim3": "9.13",
+        "shnu_mbcr_rlim4": "8.14",
+        "shnu_mbcr_rlim5": "5.83",
+        "shnu_qty_icdc1": "743110",
+        "shnu_qty_icdc2": "21131",
+        "shnu_qty_icdc3": "37349",
+        "shnu_qty_icdc4": "10556",
+        "shnu_qty_icdc5": "23521",
+        "glob_total_seln_qty": "491096",
+        "glob_seln_rlim": "1.81",
+        "glob_ntby_qty": "7639026",
+        "glob_total_shnu_qty": "8130122",
+        "glob_shnu_rlim": "30.00",
+        "seln_mbcr_glob_yn_1": "N",
+        "seln_mbcr_glob_yn_2": "N",
+        "seln_mbcr_glob_yn_3": "N",
+        "seln_mbcr_glob_yn_4": "N",
+        "seln_mbcr_glob_yn_5": "N",
+        "shnu_mbcr_glob_yn_1": "Y",
+        "shnu_mbcr_glob_yn_2": "N",
+        "shnu_mbcr_glob_yn_3": "N",
+        "shnu_mbcr_glob_yn_4": "N",
+        "shnu_mbcr_glob_yn_5": "Y",
+        "glob_total_seln_qty_icdc": "0",
+        "glob_total_shnu_qty_icdc": "766631",
+        "acml_vol": "27102479"
+      }
+    ],
+    "member_error": null,
+    "daily_investor_raw": null,
+    "daily_investor_error": "삼성전자 일별 투자자수급 조회 실패: TIME LIMIT 00:00 ~ 15:40",
+    "source": "KIS Open API",
+    "note": "원본 응답 필드를 먼저 검증한 뒤 외국인/기관/외국계 순매수 요약 필드로 고정합니다."
+  },
+  "schema_version": 2,
+  "generated_at_epoch": 1786561845,
+  "freshness_max_age_seconds": 600,
+  "cache_bust_hint": "1786561845",
+  "updated_at": "2026-08-13 04:10:45 KST",
+  "updated_at_utc": "2026-08-12T19:10:45.816768+00:00"
 }
