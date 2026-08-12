@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 134.64,
+    "price": 134.51,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -31,6 +31,6 @@
     "error": null,
     "source": "Frankfurter API"
   },
-  "updated_at": "2026-08-12 21:15:28 KST",
-  "updated_at_utc": "2026-08-12T12:15:28.118110+00:00"
+  "updated_at": "2026-08-12 21:20:30 KST",
+  "updated_at_utc": "2026-08-12T12:20:30.687948+00:00"
 }
