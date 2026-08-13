@@ -35,19 +35,19 @@
     "symbol": "005930",
     "name": "삼성전자 수급",
     "intraday_estimate": {
-      "estimate_slot": "1",
-      "foreign_net_qty": 534000,
-      "institution_net_qty": 0,
-      "total_net_qty": 534000
+      "estimate_slot": "2",
+      "foreign_net_qty": 986000,
+      "institution_net_qty": 130000,
+      "total_net_qty": 1116000
     },
     "intraday_estimate_error": null,
     "foreign_broker": {
-      "foreign_broker_buy_qty": 1319407,
-      "foreign_broker_sell_qty": 530479,
-      "foreign_broker_net_qty": 788928,
-      "foreign_buy_ratio_pct": 20.9,
-      "foreign_sell_ratio_pct": 8.4,
-      "accumulated_volume": 6313824
+      "foreign_broker_buy_qty": 1401920,
+      "foreign_broker_sell_qty": 544034,
+      "foreign_broker_net_qty": 857886,
+      "foreign_buy_ratio_pct": 21.57,
+      "foreign_sell_ratio_pct": 8.37,
+      "accumulated_volume": 6499686
     },
     "member_error": null,
     "daily_investor_raw": null,
@@ -58,9 +58,9 @@
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
   "schema_version": 3,
-  "generated_at_epoch": 1786582615,
+  "generated_at_epoch": 1786582918,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1786582615",
-  "updated_at": "2026-08-13 09:56:55 KST",
-  "updated_at_utc": "2026-08-13T00:56:55.322144+00:00"
+  "cache_bust_hint": "1786582918",
+  "updated_at": "2026-08-13 10:01:58 KST",
+  "updated_at_utc": "2026-08-13T01:01:58.721203+00:00"
 }
