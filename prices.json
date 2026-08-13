@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 732.1463,
+    "price": 732.16,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 141.5,
+    "price": 141.5026,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -37,11 +37,11 @@
     "intraday_estimate": null,
     "intraday_estimate_error": null,
     "foreign_broker": {
-      "foreign_broker_buy_qty": 9775030,
-      "foreign_broker_sell_qty": 3811726,
-      "foreign_broker_net_qty": 5963304,
-      "foreign_buy_ratio_pct": 27.51,
-      "foreign_sell_ratio_pct": 10.73,
+      "foreign_broker_buy_qty": 0,
+      "foreign_broker_sell_qty": 0,
+      "foreign_broker_net_qty": 0,
+      "foreign_buy_ratio_pct": 0.0,
+      "foreign_sell_ratio_pct": 0.0,
       "accumulated_volume": 35530867
     },
     "member_error": null,
@@ -3156,9 +3156,9 @@
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
   "schema_version": 3,
-  "generated_at_epoch": 1786652743,
+  "generated_at_epoch": 1786653048,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1786652743",
-  "updated_at": "2026-08-14 05:25:43 KST",
-  "updated_at_utc": "2026-08-13T20:25:43.463520+00:00"
+  "cache_bust_hint": "1786653048",
+  "updated_at": "2026-08-14 05:30:48 KST",
+  "updated_at_utc": "2026-08-13T20:30:48.389672+00:00"
 }
