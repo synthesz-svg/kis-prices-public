@@ -2,7 +2,7 @@
   "samsung": {
     "symbol": "005930",
     "name": "삼성전자",
-    "price": 268250.0,
+    "price": 269000.0,
     "currency": "KRW",
     "error": null,
     "source": "KIS Open API"
@@ -42,12 +42,12 @@
     },
     "intraday_estimate_error": null,
     "foreign_broker": {
-      "foreign_broker_buy_qty": 3118730,
+      "foreign_broker_buy_qty": 3153847,
       "foreign_broker_sell_qty": 669458,
-      "foreign_broker_net_qty": 2449272,
-      "foreign_buy_ratio_pct": 24.37,
-      "foreign_sell_ratio_pct": 5.23,
-      "accumulated_volume": 12798072
+      "foreign_broker_net_qty": 2484389,
+      "foreign_buy_ratio_pct": 24.42,
+      "foreign_sell_ratio_pct": 5.18,
+      "accumulated_volume": 12914957
     },
     "member_error": null,
     "daily_investor_raw": null,
@@ -58,9 +58,9 @@
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
   "schema_version": 3,
-  "generated_at_epoch": 1786590502,
+  "generated_at_epoch": 1786590805,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1786590502",
-  "updated_at": "2026-08-13 12:08:22 KST",
-  "updated_at_utc": "2026-08-13T03:08:22.319196+00:00"
+  "cache_bust_hint": "1786590805",
+  "updated_at": "2026-08-13 12:13:25 KST",
+  "updated_at_utc": "2026-08-13T03:13:25.516282+00:00"
 }
