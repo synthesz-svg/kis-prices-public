@@ -42,12 +42,12 @@
     },
     "intraday_estimate_error": null,
     "foreign_broker": {
-      "foreign_broker_buy_qty": 1953210,
+      "foreign_broker_buy_qty": 2000028,
       "foreign_broker_sell_qty": 669458,
-      "foreign_broker_net_qty": 1283752,
-      "foreign_buy_ratio_pct": 22.48,
-      "foreign_sell_ratio_pct": 7.71,
-      "accumulated_volume": 8686945
+      "foreign_broker_net_qty": 1330570,
+      "foreign_buy_ratio_pct": 22.2,
+      "foreign_sell_ratio_pct": 7.43,
+      "accumulated_volume": 9009665
     },
     "member_error": null,
     "daily_investor_raw": null,
@@ -58,9 +58,9 @@
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
   "schema_version": 3,
-  "generated_at_epoch": 1786585345,
+  "generated_at_epoch": 1786585649,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1786585345",
-  "updated_at": "2026-08-13 10:42:25 KST",
-  "updated_at_utc": "2026-08-13T01:42:25.838283+00:00"
+  "cache_bust_hint": "1786585649",
+  "updated_at": "2026-08-13 10:47:29 KST",
+  "updated_at_utc": "2026-08-13T01:47:29.182872+00:00"
 }
