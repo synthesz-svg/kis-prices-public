@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 732.87,
+    "price": 732.7337,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 137.56,
+    "price": 137.75,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -3156,14 +3156,14 @@
     },
     "daily_investor_error": null,
     "daily_investor_source": "live",
-    "daily_investor_saved_at": "2026-08-14T23:11:31.748123+09:00",
+    "daily_investor_saved_at": "2026-08-14T23:16:35.822260+09:00",
     "source": "KIS Open API",
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
   "schema_version": 3,
-  "generated_at_epoch": 1786716692,
+  "generated_at_epoch": 1786716996,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1786716692",
-  "updated_at": "2026-08-14 23:11:32 KST",
-  "updated_at_utc": "2026-08-14T14:11:32.887779+00:00"
+  "cache_bust_hint": "1786716996",
+  "updated_at": "2026-08-14 23:16:36 KST",
+  "updated_at_utc": "2026-08-14T14:16:36.905013+00:00"
 }
