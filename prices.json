@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 731.02,
+    "price": 731.61,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 136.7,
+    "price": 136.0029,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -26,9 +26,9 @@
   "usd_krw": {
     "symbol": "USD/KRW",
     "name": "달러/원 참고환율",
-    "price": 1411.27,
+    "price": null,
     "currency": "KRW",
-    "error": null,
+    "error": "환율 서버 응답 시간 초과",
     "source": "Frankfurter API"
   },
   "samsung_flow": {
@@ -3156,14 +3156,14 @@
     },
     "daily_investor_error": null,
     "daily_investor_source": "live",
-    "daily_investor_saved_at": "2026-08-14T23:31:48.382322+09:00",
+    "daily_investor_saved_at": "2026-08-14T23:36:52.594763+09:00",
     "source": "KIS Open API",
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
   "schema_version": 3,
-  "generated_at_epoch": 1786717909,
+  "generated_at_epoch": 1786718228,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1786717909",
-  "updated_at": "2026-08-14 23:31:49 KST",
-  "updated_at_utc": "2026-08-14T14:31:49.596726+00:00"
+  "cache_bust_hint": "1786718228",
+  "updated_at": "2026-08-14 23:37:08 KST",
+  "updated_at_utc": "2026-08-14T14:37:08.594885+00:00"
 }
