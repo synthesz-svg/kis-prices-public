@@ -3173,9 +3173,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 3,
-  "generated_at_epoch": 1786811941,
+  "generated_at_epoch": 1786812246,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1786811941",
-  "updated_at": "2026-08-16 01:39:01 KST",
-  "updated_at_utc": "2026-08-15T16:39:01.898592+00:00"
+  "cache_bust_hint": "1786812246",
+  "updated_at": "2026-08-16 01:44:06 KST",
+  "updated_at_utc": "2026-08-15T16:44:06.273834+00:00"
 }
