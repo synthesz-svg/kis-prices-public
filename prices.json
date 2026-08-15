@@ -3156,7 +3156,7 @@
     },
     "daily_investor_error": null,
     "daily_investor_source": "live",
-    "daily_investor_saved_at": "2026-08-15T23:01:40.690011+09:00",
+    "daily_investor_saved_at": "2026-08-15T23:06:44.869758+09:00",
     "source": "KIS Open API",
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
@@ -3173,9 +3173,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 3,
-  "generated_at_epoch": 1786802501,
+  "generated_at_epoch": 1786802805,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1786802501",
-  "updated_at": "2026-08-15 23:01:41 KST",
-  "updated_at_utc": "2026-08-15T14:01:41.895362+00:00"
+  "cache_bust_hint": "1786802805",
+  "updated_at": "2026-08-15 23:06:45 KST",
+  "updated_at_utc": "2026-08-15T14:06:45.953826+00:00"
 }
