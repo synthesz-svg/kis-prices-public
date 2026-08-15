@@ -3154,9 +3154,9 @@
         }
       ]
     },
-    "daily_investor_error": null,
-    "daily_investor_source": "live",
-    "daily_investor_saved_at": "2026-08-15T23:57:34.330611+09:00",
+    "daily_investor_error": "삼성전자 일별 투자자수급 조회 실패: TIME LIMIT 00:00 ~ 15:40",
+    "daily_investor_source": "cache",
+    "daily_investor_saved_at": "2026-08-15T23:57:34.325963+09:00",
     "source": "KIS Open API",
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
@@ -3173,9 +3173,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 3,
-  "generated_at_epoch": 1786805855,
+  "generated_at_epoch": 1786806157,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1786805855",
-  "updated_at": "2026-08-15 23:57:35 KST",
-  "updated_at_utc": "2026-08-15T14:57:35.456387+00:00"
+  "cache_bust_hint": "1786806157",
+  "updated_at": "2026-08-16 00:02:37 KST",
+  "updated_at_utc": "2026-08-15T15:02:37.822989+00:00"
 }
