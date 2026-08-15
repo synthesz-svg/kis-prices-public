@@ -3168,14 +3168,14 @@
     "previous_1_week": 64.43,
     "previous_1_month": 41.06,
     "previous_1_year": 63.26,
-    "timestamp": "2026-08-14T23:48:23+00:00",
+    "timestamp": "2026-08-14T23:53:25+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 3,
-  "generated_at_epoch": 1786752278,
+  "generated_at_epoch": 1786752583,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1786752278",
-  "updated_at": "2026-08-15 09:04:38 KST",
-  "updated_at_utc": "2026-08-15T00:04:38.924500+00:00"
+  "cache_bust_hint": "1786752583",
+  "updated_at": "2026-08-15 09:09:43 KST",
+  "updated_at_utc": "2026-08-15T00:09:43.540298+00:00"
 }
