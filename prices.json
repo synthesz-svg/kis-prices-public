@@ -23,6 +23,14 @@
     "error": null,
     "source": "KIS Open API"
   },
+  "pave": {
+    "symbol": "PAVE",
+    "name": "PAVE",
+    "price": 58.59,
+    "currency": "USD",
+    "error": null,
+    "source": "KIS Open API"
+  },
   "usd_krw": {
     "symbol": "USD/KRW",
     "name": "달러/원 참고환율",
@@ -3172,10 +3180,10 @@
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
-  "schema_version": 3,
-  "generated_at_epoch": 1786914307,
+  "schema_version": 4,
+  "generated_at_epoch": 1786914418,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1786914307",
-  "updated_at": "2026-08-17 06:05:07 KST",
-  "updated_at_utc": "2026-08-16T21:05:07.968041+00:00"
+  "cache_bust_hint": "1786914418",
+  "updated_at": "2026-08-17 06:06:58 KST",
+  "updated_at_utc": "2026-08-16T21:06:58.506851+00:00"
 }
