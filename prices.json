@@ -26,9 +26,9 @@
   "usd_krw": {
     "symbol": "USD/KRW",
     "name": "달러/원 참고환율",
-    "price": 1411.27,
+    "price": null,
     "currency": "KRW",
-    "error": null,
+    "error": "환율 서버 응답 시간 초과",
     "source": "Frankfurter API"
   },
   "samsung_flow": {
@@ -3173,9 +3173,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 3,
-  "generated_at_epoch": 1786859716,
+  "generated_at_epoch": 1786860035,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1786859716",
-  "updated_at": "2026-08-16 14:55:16 KST",
-  "updated_at_utc": "2026-08-16T05:55:16.758672+00:00"
+  "cache_bust_hint": "1786860035",
+  "updated_at": "2026-08-16 15:00:35 KST",
+  "updated_at_utc": "2026-08-16T06:00:35.519501+00:00"
 }
