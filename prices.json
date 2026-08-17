@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 729.51,
+    "price": 729.4861,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -26,7 +26,7 @@
   "pave": {
     "symbol": "PAVE",
     "name": "PAVE",
-    "price": 58.81,
+    "price": 58.82,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -3171,14 +3171,14 @@
     "previous_1_week": 64.69,
     "previous_1_month": 37.23,
     "previous_1_year": 63.54,
-    "timestamp": "2026-08-17T20:54:36+00:00",
+    "timestamp": "2026-08-17T20:59:39+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 4,
-  "generated_at_epoch": 1787001161,
+  "generated_at_epoch": 1787001466,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787001161",
-  "updated_at": "2026-08-18 06:12:41 KST",
-  "updated_at_utc": "2026-08-17T21:12:41.996007+00:00"
+  "cache_bust_hint": "1787001466",
+  "updated_at": "2026-08-18 06:17:46 KST",
+  "updated_at_utc": "2026-08-17T21:17:46.883012+00:00"
 }
