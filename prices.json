@@ -3164,7 +3164,7 @@
     },
     "daily_investor_error": null,
     "daily_investor_source": "live",
-    "daily_investor_saved_at": "2026-08-17T16:32:00.588008+09:00",
+    "daily_investor_saved_at": "2026-08-17T16:37:05.662735+09:00",
     "source": "KIS Open API",
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
@@ -3172,18 +3172,18 @@
     "score": 64.97,
     "rating": "greed",
     "rating_ko": "탐욕",
-    "previous_close": 66.14,
-    "previous_1_week": 64.43,
-    "previous_1_month": 41.06,
-    "previous_1_year": 63.26,
-    "timestamp": "2026-08-14T23:59:53+00:00",
+    "previous_close": 64.97,
+    "previous_1_week": 64.69,
+    "previous_1_month": 37.23,
+    "previous_1_year": 63.54,
+    "timestamp": "2026-08-17T07:18:46+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 4,
-  "generated_at_epoch": 1786951922,
+  "generated_at_epoch": 1786952227,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1786951922",
-  "updated_at": "2026-08-17 16:32:02 KST",
-  "updated_at_utc": "2026-08-17T07:32:02.243703+00:00"
+  "cache_bust_hint": "1786952227",
+  "updated_at": "2026-08-17 16:37:07 KST",
+  "updated_at_utc": "2026-08-17T07:37:07.380765+00:00"
 }
