@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 722.18,
+    "price": 721.85,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 143.9,
+    "price": 143.69,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -53,9 +53,9 @@
       "foreign_broker_buy_qty": 4839943,
       "foreign_broker_sell_qty": 1695944,
       "foreign_broker_net_qty": 3143999,
-      "foreign_buy_ratio_pct": 20.16,
-      "foreign_sell_ratio_pct": 7.07,
-      "accumulated_volume": 24003581
+      "foreign_buy_ratio_pct": 19.78,
+      "foreign_sell_ratio_pct": 6.93,
+      "accumulated_volume": 24464621
     },
     "member_error": null,
     "daily_investor_raw": {
@@ -65,7 +65,7 @@
         "prdy_vrss": "-6000",
         "prdy_vrss_sign": "5",
         "prdy_ctrt": "-2.19",
-        "acml_vol": "24003581",
+        "acml_vol": "24464621",
         "prdy_vol": "21669476",
         "rprs_mrkt_kor_name": "KOSPI200"
       },
@@ -76,8 +76,8 @@
           "prdy_vrss": "-6000",
           "prdy_vrss_sign": "5",
           "prdy_ctrt": "-2.19",
-          "acml_vol": "24003581",
-          "acml_tr_pbmn": "6616933160500",
+          "acml_vol": "24464621",
+          "acml_tr_pbmn": "6742432203720",
           "stck_oprc": "283000",
           "stck_hgpr": "288000",
           "stck_lwpr": "265000",
@@ -3164,7 +3164,7 @@
     },
     "daily_investor_error": null,
     "daily_investor_source": "live",
-    "daily_investor_saved_at": "2026-08-18T18:04:07.202999+09:00",
+    "daily_investor_saved_at": "2026-08-18T18:09:12.088918+09:00",
     "source": "KIS Open API",
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
@@ -3176,14 +3176,14 @@
     "previous_1_week": 61.43,
     "previous_1_month": 37.23,
     "previous_1_year": 64.2,
-    "timestamp": "2026-08-18T08:45:46+00:00",
+    "timestamp": "2026-08-18T08:50:46+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 4,
-  "generated_at_epoch": 1787043848,
+  "generated_at_epoch": 1787044153,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787043848",
-  "updated_at": "2026-08-18 18:04:08 KST",
-  "updated_at_utc": "2026-08-18T09:04:08.895516+00:00"
+  "cache_bust_hint": "1787044153",
+  "updated_at": "2026-08-18 18:09:13 KST",
+  "updated_at_utc": "2026-08-18T09:09:13.762140+00:00"
 }
