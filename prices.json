@@ -2,7 +2,7 @@
   "samsung": {
     "symbol": "005930",
     "name": "삼성전자",
-    "price": 284000.0,
+    "price": 283000.0,
     "currency": "KRW",
     "error": null,
     "source": "KIS Open API"
@@ -26,7 +26,7 @@
   "pave": {
     "symbol": "PAVE",
     "name": "PAVE",
-    "price": 58.3196,
+    "price": 58.73,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -45,12 +45,12 @@
     "intraday_estimate": null,
     "intraday_estimate_error": null,
     "foreign_broker": {
-      "foreign_broker_buy_qty": 875092,
-      "foreign_broker_sell_qty": 352099,
-      "foreign_broker_net_qty": 522993,
-      "foreign_buy_ratio_pct": 47.95,
-      "foreign_sell_ratio_pct": 19.29,
-      "accumulated_volume": 1825014
+      "foreign_broker_buy_qty": 1015957,
+      "foreign_broker_sell_qty": 354001,
+      "foreign_broker_net_qty": 661956,
+      "foreign_buy_ratio_pct": 45.54,
+      "foreign_sell_ratio_pct": 15.87,
+      "accumulated_volume": 2230971
     },
     "member_error": null,
     "daily_investor_raw": {
@@ -3171,14 +3171,14 @@
     "previous_1_week": 64.69,
     "previous_1_month": 37.23,
     "previous_1_year": 63.54,
-    "timestamp": "2026-08-17T23:50:00+00:00",
+    "timestamp": "2026-08-17T23:55:03+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 4,
-  "generated_at_epoch": 1787011543,
+  "generated_at_epoch": 1787011848,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787011543",
-  "updated_at": "2026-08-18 09:05:43 KST",
-  "updated_at_utc": "2026-08-18T00:05:43.824308+00:00"
+  "cache_bust_hint": "1787011848",
+  "updated_at": "2026-08-18 09:10:48 KST",
+  "updated_at_utc": "2026-08-18T00:10:48.352217+00:00"
 }
