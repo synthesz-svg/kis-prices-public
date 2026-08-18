@@ -50,12 +50,12 @@
     },
     "intraday_estimate_error": null,
     "foreign_broker": {
-      "foreign_broker_buy_qty": 3477461,
+      "foreign_broker_buy_qty": 3487288,
       "foreign_broker_sell_qty": 1695944,
-      "foreign_broker_net_qty": 1781517,
-      "foreign_buy_ratio_pct": 21.27,
-      "foreign_sell_ratio_pct": 10.37,
-      "accumulated_volume": 16348735
+      "foreign_broker_net_qty": 1791344,
+      "foreign_buy_ratio_pct": 21.15,
+      "foreign_sell_ratio_pct": 10.29,
+      "accumulated_volume": 16485356
     },
     "member_error": null,
     "daily_investor_raw": {
@@ -3169,21 +3169,21 @@
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
   "fear_greed": {
-    "score": 59.97,
+    "score": 59.94,
     "rating": "greed",
     "rating_ko": "탐욕",
-    "previous_close": 64.97,
-    "previous_1_week": 64.69,
+    "previous_close": 59.97,
+    "previous_1_week": 61.43,
     "previous_1_month": 37.23,
-    "previous_1_year": 63.54,
-    "timestamp": "2026-08-17T23:59:53+00:00",
+    "previous_1_year": 64.2,
+    "timestamp": "2026-08-18T00:00:00+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 4,
-  "generated_at_epoch": 1787026169,
+  "generated_at_epoch": 1787026473,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787026169",
-  "updated_at": "2026-08-18 13:09:29 KST",
-  "updated_at_utc": "2026-08-18T04:09:29.392583+00:00"
+  "cache_bust_hint": "1787026473",
+  "updated_at": "2026-08-18 13:14:33 KST",
+  "updated_at_utc": "2026-08-18T04:14:33.975772+00:00"
 }
