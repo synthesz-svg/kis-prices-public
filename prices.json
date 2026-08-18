@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 717.345,
+    "price": 717.3,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 143.1599,
+    "price": 142.775,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -26,7 +26,7 @@
   "pave": {
     "symbol": "PAVE",
     "name": "PAVE",
-    "price": 57.345,
+    "price": 57.3144,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -3176,14 +3176,14 @@
     "previous_1_week": 61.43,
     "previous_1_month": 37.23,
     "previous_1_year": 64.2,
-    "timestamp": "2026-08-18T18:55:32+00:00",
+    "timestamp": "2026-08-18T18:58:41+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 4,
-  "generated_at_epoch": 1787079540,
+  "generated_at_epoch": 1787079845,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787079540",
-  "updated_at": "2026-08-19 03:59:00 KST",
-  "updated_at_utc": "2026-08-18T18:59:00.771133+00:00"
+  "cache_bust_hint": "1787079845",
+  "updated_at": "2026-08-19 04:04:05 KST",
+  "updated_at_utc": "2026-08-18T19:04:05.824222+00:00"
 }
