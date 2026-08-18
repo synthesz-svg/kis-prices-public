@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 717.1467,
+    "price": 717.4079,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 143.08,
+    "price": 143.199,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -26,7 +26,7 @@
   "pave": {
     "symbol": "PAVE",
     "name": "PAVE",
-    "price": 57.417,
+    "price": 57.84,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -45,11 +45,11 @@
     "intraday_estimate": null,
     "intraday_estimate_error": null,
     "foreign_broker": {
-      "foreign_broker_buy_qty": 4839943,
-      "foreign_broker_sell_qty": 1695944,
-      "foreign_broker_net_qty": 3143999,
-      "foreign_buy_ratio_pct": 19.78,
-      "foreign_sell_ratio_pct": 6.93,
+      "foreign_broker_buy_qty": 0,
+      "foreign_broker_sell_qty": 0,
+      "foreign_broker_net_qty": 0,
+      "foreign_buy_ratio_pct": 0.0,
+      "foreign_sell_ratio_pct": 0.0,
       "accumulated_volume": 24464621
     },
     "member_error": null,
@@ -3171,14 +3171,14 @@
     "previous_1_week": 61.43,
     "previous_1_month": 37.23,
     "previous_1_year": 64.2,
-    "timestamp": "2026-08-18T20:11:37+00:00",
+    "timestamp": "2026-08-18T20:16:37+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 4,
-  "generated_at_epoch": 1787084724,
+  "generated_at_epoch": 1787085028,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787084724",
-  "updated_at": "2026-08-19 05:25:24 KST",
-  "updated_at_utc": "2026-08-18T20:25:24.289004+00:00"
+  "cache_bust_hint": "1787085028",
+  "updated_at": "2026-08-19 05:30:28 KST",
+  "updated_at_utc": "2026-08-18T20:30:28.903225+00:00"
 }
