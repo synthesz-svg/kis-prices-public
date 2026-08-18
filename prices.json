@@ -2,7 +2,7 @@
   "samsung": {
     "symbol": "005930",
     "name": "삼성전자",
-    "price": 268000.0,
+    "price": 267500.0,
     "currency": "KRW",
     "error": null,
     "source": "KIS Open API"
@@ -50,12 +50,12 @@
     },
     "intraday_estimate_error": null,
     "foreign_broker": {
-      "foreign_broker_buy_qty": 4021596,
+      "foreign_broker_buy_qty": 4055752,
       "foreign_broker_sell_qty": 1695944,
-      "foreign_broker_net_qty": 2325652,
-      "foreign_buy_ratio_pct": 20.44,
-      "foreign_sell_ratio_pct": 8.62,
-      "accumulated_volume": 19670449
+      "foreign_broker_net_qty": 2359808,
+      "foreign_buy_ratio_pct": 20.33,
+      "foreign_sell_ratio_pct": 8.5,
+      "accumulated_volume": 19945665
     },
     "member_error": null,
     "daily_investor_raw": {
@@ -3181,9 +3181,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 4,
-  "generated_at_epoch": 1787031350,
+  "generated_at_epoch": 1787031656,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787031350",
-  "updated_at": "2026-08-18 14:35:50 KST",
-  "updated_at_utc": "2026-08-18T05:35:50.892964+00:00"
+  "cache_bust_hint": "1787031656",
+  "updated_at": "2026-08-18 14:40:56 KST",
+  "updated_at_utc": "2026-08-18T05:40:56.138842+00:00"
 }
