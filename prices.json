@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 716.1794,
+    "price": 716.2,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 139.23,
+    "price": 139.2,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -26,7 +26,7 @@
   "pave": {
     "symbol": "PAVE",
     "name": "PAVE",
-    "price": 57.0163,
+    "price": 57.05,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -45,12 +45,12 @@
     "intraday_estimate": null,
     "intraday_estimate_error": null,
     "foreign_broker": {
-      "foreign_broker_buy_qty": 2597375,
-      "foreign_broker_sell_qty": 4930009,
-      "foreign_broker_net_qty": -2332634,
-      "foreign_buy_ratio_pct": 11.4,
-      "foreign_sell_ratio_pct": 21.63,
-      "accumulated_volume": 22788552
+      "foreign_broker_buy_qty": 0,
+      "foreign_broker_sell_qty": 0,
+      "foreign_broker_net_qty": 0,
+      "foreign_buy_ratio_pct": 0.0,
+      "foreign_sell_ratio_pct": 0.0,
+      "accumulated_volume": 0
     },
     "member_error": null,
     "daily_investor_raw": {
@@ -3164,21 +3164,21 @@
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
   "fear_greed": {
-    "score": 56.31,
+    "score": 56.29,
     "rating": "greed",
     "rating_ko": "탐욕",
     "previous_close": 54.4,
     "previous_1_week": 62.94,
     "previous_1_month": 37.23,
     "previous_1_year": 59.89,
-    "timestamp": "2026-08-19T20:13:46+00:00",
+    "timestamp": "2026-08-19T20:18:41+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 4,
-  "generated_at_epoch": 1787171313,
+  "generated_at_epoch": 1787171618,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787171313",
-  "updated_at": "2026-08-20 05:28:33 KST",
-  "updated_at_utc": "2026-08-19T20:28:33.511739+00:00"
+  "cache_bust_hint": "1787171618",
+  "updated_at": "2026-08-20 05:33:38 KST",
+  "updated_at_utc": "2026-08-19T20:33:38.163821+00:00"
 }
