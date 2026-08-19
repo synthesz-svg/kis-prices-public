@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 720.375,
+    "price": 719.365,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 142.145,
+    "price": 141.58,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -26,7 +26,7 @@
   "pave": {
     "symbol": "PAVE",
     "name": "PAVE",
-    "price": 57.545,
+    "price": 57.4499,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -3164,26 +3164,26 @@
     },
     "daily_investor_error": null,
     "daily_investor_source": "live",
-    "daily_investor_saved_at": "2026-08-19T22:31:36.684878+09:00",
+    "daily_investor_saved_at": "2026-08-19T22:36:41.805136+09:00",
     "source": "KIS Open API",
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
   "fear_greed": {
-    "score": 53.57,
-    "rating": "neutral",
-    "rating_ko": "중립",
+    "score": 55.26,
+    "rating": "greed",
+    "rating_ko": "탐욕",
     "previous_close": 54.4,
     "previous_1_week": 62.94,
     "previous_1_month": 37.23,
     "previous_1_year": 59.89,
-    "timestamp": "2026-08-19T13:13:01+00:00",
+    "timestamp": "2026-08-19T13:32:07+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 4,
-  "generated_at_epoch": 1787146298,
+  "generated_at_epoch": 1787146603,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787146298",
-  "updated_at": "2026-08-19 22:31:38 KST",
-  "updated_at_utc": "2026-08-19T13:31:38.375796+00:00"
+  "cache_bust_hint": "1787146603",
+  "updated_at": "2026-08-19 22:36:43 KST",
+  "updated_at_utc": "2026-08-19T13:36:43.467447+00:00"
 }
