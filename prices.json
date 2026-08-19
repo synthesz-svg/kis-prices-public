@@ -55,7 +55,7 @@
       "foreign_broker_net_qty": -2332634,
       "foreign_buy_ratio_pct": 11.45,
       "foreign_sell_ratio_pct": 21.73,
-      "accumulated_volume": 22683032
+      "accumulated_volume": 22683086
     },
     "member_error": null,
     "daily_investor_raw": {
@@ -65,7 +65,7 @@
         "prdy_vrss": "-21000",
         "prdy_vrss_sign": "5",
         "prdy_ctrt": "-7.82",
-        "acml_vol": "22683032",
+        "acml_vol": "22683086",
         "prdy_vol": "24464620",
         "rprs_mrkt_kor_name": "KOSPI200"
       },
@@ -76,8 +76,8 @@
           "prdy_vrss": "-21000",
           "prdy_vrss_sign": "5",
           "prdy_ctrt": "-7.82",
-          "acml_vol": "22683032",
-          "acml_tr_pbmn": "5656755506750",
+          "acml_vol": "22683086",
+          "acml_tr_pbmn": "5656768871750",
           "stck_oprc": "251500",
           "stck_hgpr": "254500",
           "stck_lwpr": "246500",
@@ -3164,7 +3164,7 @@
     },
     "daily_investor_error": null,
     "daily_investor_source": "live",
-    "daily_investor_saved_at": "2026-08-19T15:45:03.777162+09:00",
+    "daily_investor_saved_at": "2026-08-19T15:50:08.866038+09:00",
     "source": "KIS Open API",
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
@@ -3181,9 +3181,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 4,
-  "generated_at_epoch": 1787121905,
+  "generated_at_epoch": 1787122210,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787121905",
-  "updated_at": "2026-08-19 15:45:05 KST",
-  "updated_at_utc": "2026-08-19T06:45:05.566781+00:00"
+  "cache_bust_hint": "1787122210",
+  "updated_at": "2026-08-19 15:50:10 KST",
+  "updated_at_utc": "2026-08-19T06:50:10.487677+00:00"
 }
