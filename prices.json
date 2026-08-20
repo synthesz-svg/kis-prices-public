@@ -2,7 +2,7 @@
   "samsung": {
     "symbol": "005930",
     "name": "삼성전자",
-    "price": 270000.0,
+    "price": 270750.0,
     "currency": "KRW",
     "error": null,
     "source": "KIS Open API"
@@ -50,12 +50,12 @@
     },
     "intraday_estimate_error": null,
     "foreign_broker": {
-      "foreign_broker_buy_qty": 2845949,
+      "foreign_broker_buy_qty": 2887400,
       "foreign_broker_sell_qty": 1028503,
-      "foreign_broker_net_qty": 1817446,
+      "foreign_broker_net_qty": 1858897,
       "foreign_buy_ratio_pct": 17.23,
-      "foreign_sell_ratio_pct": 6.23,
-      "accumulated_volume": 16517085
+      "foreign_sell_ratio_pct": 6.14,
+      "accumulated_volume": 16754342
     },
     "member_error": null,
     "daily_investor_raw": {
@@ -3169,21 +3169,21 @@
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
   "fear_greed": {
-    "score": 56.34,
+    "score": 56.2,
     "rating": "greed",
     "rating_ko": "탐욕",
-    "previous_close": 54.4,
-    "previous_1_week": 62.94,
-    "previous_1_month": 37.23,
-    "previous_1_year": 59.89,
-    "timestamp": "2026-08-19T23:59:49+00:00",
+    "previous_close": 56.34,
+    "previous_1_week": 66.63,
+    "previous_1_month": 37.94,
+    "previous_1_year": 55.91,
+    "timestamp": "2026-08-20T00:00:00+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 4,
-  "generated_at_epoch": 1787198453,
+  "generated_at_epoch": 1787198758,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787198453",
-  "updated_at": "2026-08-20 13:00:53 KST",
-  "updated_at_utc": "2026-08-20T04:00:53.852245+00:00"
+  "cache_bust_hint": "1787198758",
+  "updated_at": "2026-08-20 13:05:58 KST",
+  "updated_at_utc": "2026-08-20T04:05:58.619829+00:00"
 }
