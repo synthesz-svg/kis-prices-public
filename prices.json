@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 711.19,
+    "price": 710.9226,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 133.54,
+    "price": 133.4,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -50,7 +50,7 @@
       "foreign_broker_net_qty": 0,
       "foreign_buy_ratio_pct": 0.0,
       "foreign_sell_ratio_pct": 0.0,
-      "accumulated_volume": 440
+      "accumulated_volume": 452
     },
     "member_error": null,
     "daily_investor_raw": {
@@ -3171,14 +3171,14 @@
     "previous_1_week": 66.63,
     "previous_1_month": 37.94,
     "previous_1_year": 55.91,
-    "timestamp": "2026-08-20T23:15:22+00:00",
+    "timestamp": "2026-08-20T23:20:24+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 4,
-  "generated_at_epoch": 1787268896,
+  "generated_at_epoch": 1787269200,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787268896",
-  "updated_at": "2026-08-21 08:34:56 KST",
-  "updated_at_utc": "2026-08-20T23:34:56.083812+00:00"
+  "cache_bust_hint": "1787269200",
+  "updated_at": "2026-08-21 08:40:00 KST",
+  "updated_at_utc": "2026-08-20T23:40:00.747362+00:00"
 }
