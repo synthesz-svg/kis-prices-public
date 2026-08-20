@@ -50,12 +50,12 @@
     },
     "intraday_estimate_error": null,
     "foreign_broker": {
-      "foreign_broker_buy_qty": 1685170,
-      "foreign_broker_sell_qty": 986234,
-      "foreign_broker_net_qty": 698936,
-      "foreign_buy_ratio_pct": 20.68,
-      "foreign_sell_ratio_pct": 12.1,
-      "accumulated_volume": 8149413
+      "foreign_broker_buy_qty": 1717063,
+      "foreign_broker_sell_qty": 992607,
+      "foreign_broker_net_qty": 724456,
+      "foreign_buy_ratio_pct": 20.47,
+      "foreign_sell_ratio_pct": 11.83,
+      "accumulated_volume": 8387633
     },
     "member_error": null,
     "daily_investor_raw": {
@@ -3181,9 +3181,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 4,
-  "generated_at_epoch": 1787188997,
+  "generated_at_epoch": 1787189302,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787188997",
-  "updated_at": "2026-08-20 10:23:17 KST",
-  "updated_at_utc": "2026-08-20T01:23:17.761525+00:00"
+  "cache_bust_hint": "1787189302",
+  "updated_at": "2026-08-20 10:28:22 KST",
+  "updated_at_utc": "2026-08-20T01:28:22.359003+00:00"
 }
