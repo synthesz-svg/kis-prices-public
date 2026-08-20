@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 711.14,
+    "price": 711.02,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 133.458,
+    "price": 133.3008,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -3171,14 +3171,14 @@
     "previous_1_week": 66.63,
     "previous_1_month": 37.94,
     "previous_1_year": 55.91,
-    "timestamp": "2026-08-20T23:25:26+00:00",
+    "timestamp": "2026-08-20T23:30:28+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 4,
-  "generated_at_epoch": 1787269505,
+  "generated_at_epoch": 1787269809,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787269505",
-  "updated_at": "2026-08-21 08:45:05 KST",
-  "updated_at_utc": "2026-08-20T23:45:05.307214+00:00"
+  "cache_bust_hint": "1787269809",
+  "updated_at": "2026-08-21 08:50:09 KST",
+  "updated_at_utc": "2026-08-20T23:50:09.971763+00:00"
 }
