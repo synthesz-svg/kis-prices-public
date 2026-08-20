@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 712.215,
+    "price": 713.1,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 133.845,
+    "price": 133.7899,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -26,7 +26,7 @@
   "pave": {
     "symbol": "PAVE",
     "name": "PAVE",
-    "price": 56.26,
+    "price": 56.145,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -34,7 +34,7 @@
   "usd_krw": {
     "symbol": "USD/KRW",
     "name": "달러/원 참고환율",
-    "price": 1391.48,
+    "price": 1396.35,
     "currency": "KRW",
     "error": null,
     "source": "Frankfurter API"
@@ -3164,26 +3164,26 @@
     },
     "daily_investor_error": null,
     "daily_investor_source": "live",
-    "daily_investor_saved_at": "2026-08-20T22:55:29.275722+09:00",
+    "daily_investor_saved_at": "2026-08-20T23:00:34.197459+09:00",
     "source": "KIS Open API",
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
   "fear_greed": {
-    "score": 57.0,
+    "score": 57.34,
     "rating": "greed",
     "rating_ko": "탐욕",
     "previous_close": 56.34,
     "previous_1_week": 66.63,
     "previous_1_month": 37.94,
     "previous_1_year": 55.91,
-    "timestamp": "2026-08-20T13:53:44+00:00",
+    "timestamp": "2026-08-20T13:59:30+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 4,
-  "generated_at_epoch": 1787234131,
+  "generated_at_epoch": 1787234435,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787234131",
-  "updated_at": "2026-08-20 22:55:31 KST",
-  "updated_at_utc": "2026-08-20T13:55:31.030909+00:00"
+  "cache_bust_hint": "1787234435",
+  "updated_at": "2026-08-20 23:00:35 KST",
+  "updated_at_utc": "2026-08-20T14:00:35.939644+00:00"
 }
