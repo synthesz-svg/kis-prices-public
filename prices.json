@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 136.8281,
+    "price": 136.8,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -3211,14 +3211,14 @@
     "previous_1_week": 63.97,
     "previous_1_month": 43.37,
     "previous_1_year": 52.6,
-    "timestamp": "2026-08-21T21:07:17+00:00",
+    "timestamp": "2026-08-21T21:12:20+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 6,
-  "generated_at_epoch": 1787347597,
+  "generated_at_epoch": 1787347903,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787347597",
-  "updated_at": "2026-08-22 06:26:37 KST",
-  "updated_at_utc": "2026-08-21T21:26:37.786003+00:00"
+  "cache_bust_hint": "1787347903",
+  "updated_at": "2026-08-22 06:31:43 KST",
+  "updated_at_utc": "2026-08-21T21:31:43.104441+00:00"
 }
