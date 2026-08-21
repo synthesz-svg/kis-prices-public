@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 715.47,
+    "price": 715.5,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 136.0025,
+    "price": 135.9002,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -3164,7 +3164,7 @@
     },
     "daily_investor_error": null,
     "daily_investor_source": "live",
-    "daily_investor_saved_at": "2026-08-21T19:50:46.781651+09:00",
+    "daily_investor_saved_at": "2026-08-21T19:55:51.748525+09:00",
     "source": "KIS Open API",
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
@@ -3176,14 +3176,14 @@
     "previous_1_week": 63.97,
     "previous_1_month": 43.37,
     "previous_1_year": 52.6,
-    "timestamp": "2026-08-21T10:31:16+00:00",
+    "timestamp": "2026-08-21T10:36:16+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 4,
-  "generated_at_epoch": 1787309448,
+  "generated_at_epoch": 1787309753,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787309448",
-  "updated_at": "2026-08-21 19:50:48 KST",
-  "updated_at_utc": "2026-08-21T10:50:48.457232+00:00"
+  "cache_bust_hint": "1787309753",
+  "updated_at": "2026-08-21 19:55:53 KST",
+  "updated_at_utc": "2026-08-21T10:55:53.495450+00:00"
 }
