@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 713.29,
+    "price": 713.26,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 136.28,
+    "price": 136.075,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -42,31 +42,31 @@
   "sox": {
     "symbol": "SOX",
     "name": "필라델피아 반도체지수",
-    "price": 11671.19,
+    "price": 11674.31,
     "currency": "INDEX",
-    "change": -128.83,
-    "change_pct": -1.09,
+    "change": -125.71,
+    "change_pct": -1.07,
     "previous_close": 11800.02,
     "open": 11901.79,
     "high": 11943.96,
     "low": 11631.72,
     "quote_date": "20260822",
-    "quote_time": "022200",
+    "quote_time": "022700",
     "quote_timezone": "Asia/Seoul",
     "source_quote_date": "20260821",
-    "source_quote_time": "132200",
+    "source_quote_time": "132700",
     "source_timezone": "America/New_York",
     "minute_bar": {
       "date": "20260822",
-      "time": "022200",
+      "time": "022700",
       "timezone": "Asia/Seoul",
       "source_date": "20260821",
-      "source_time": "132200",
+      "source_time": "132700",
       "source_timezone": "America/New_York",
-      "price": 11671.19,
-      "open": 11669.56,
-      "high": 11671.19,
-      "low": 11669.48,
+      "price": 11674.31,
+      "open": 11671.09,
+      "high": 11674.31,
+      "low": 11671.09,
       "volume": 0
     },
     "realtime_guaranteed": false,
@@ -3216,9 +3216,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 6,
-  "generated_at_epoch": 1787332931,
+  "generated_at_epoch": 1787333236,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787332931",
-  "updated_at": "2026-08-22 02:22:11 KST",
-  "updated_at_utc": "2026-08-21T17:22:11.382440+00:00"
+  "cache_bust_hint": "1787333236",
+  "updated_at": "2026-08-22 02:27:16 KST",
+  "updated_at_utc": "2026-08-21T17:27:16.619331+00:00"
 }
