@@ -2,7 +2,7 @@
   "samsung": {
     "symbol": "005930",
     "name": "삼성전자",
-    "price": 271000.0,
+    "price": 266000.0,
     "currency": "KRW",
     "error": null,
     "source": "KIS Open API"
@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 710.9171,
+    "price": 710.7977,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 133.33,
+    "price": 133.3,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -50,7 +50,7 @@
       "foreign_broker_net_qty": 0,
       "foreign_buy_ratio_pct": 0.0,
       "foreign_sell_ratio_pct": 0.0,
-      "accumulated_volume": 452
+      "accumulated_volume": 359020
     },
     "member_error": null,
     "daily_investor_raw": {
@@ -3171,14 +3171,14 @@
     "previous_1_week": 66.63,
     "previous_1_month": 37.94,
     "previous_1_year": 55.91,
-    "timestamp": "2026-08-20T23:35:31+00:00",
+    "timestamp": "2026-08-20T23:40:33+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 4,
-  "generated_at_epoch": 1787270119,
+  "generated_at_epoch": 1787270423,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787270119",
-  "updated_at": "2026-08-21 08:55:19 KST",
-  "updated_at_utc": "2026-08-20T23:55:19.042610+00:00"
+  "cache_bust_hint": "1787270423",
+  "updated_at": "2026-08-21 09:00:23 KST",
+  "updated_at_utc": "2026-08-21T00:00:23.599762+00:00"
 }
