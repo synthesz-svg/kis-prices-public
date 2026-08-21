@@ -26,7 +26,7 @@
   "pave": {
     "symbol": "PAVE",
     "name": "PAVE",
-    "price": 55.99,
+    "price": 56.04,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -45,12 +45,12 @@
     "intraday_estimate": null,
     "intraday_estimate_error": null,
     "foreign_broker": {
-      "foreign_broker_buy_qty": 147469,
-      "foreign_broker_sell_qty": 119626,
-      "foreign_broker_net_qty": 27843,
-      "foreign_buy_ratio_pct": 11.58,
-      "foreign_sell_ratio_pct": 9.39,
-      "accumulated_volume": 1273929
+      "foreign_broker_buy_qty": 169222,
+      "foreign_broker_sell_qty": 139628,
+      "foreign_broker_net_qty": 29594,
+      "foreign_buy_ratio_pct": 9.78,
+      "foreign_sell_ratio_pct": 8.07,
+      "accumulated_volume": 1730634
     },
     "member_error": null,
     "daily_investor_raw": {
@@ -3171,14 +3171,14 @@
     "previous_1_week": 66.63,
     "previous_1_month": 37.94,
     "previous_1_year": 55.91,
-    "timestamp": "2026-08-20T23:45:35+00:00",
+    "timestamp": "2026-08-20T23:50:37+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 4,
-  "generated_at_epoch": 1787270728,
+  "generated_at_epoch": 1787271032,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787270728",
-  "updated_at": "2026-08-21 09:05:28 KST",
-  "updated_at_utc": "2026-08-21T00:05:28.434516+00:00"
+  "cache_bust_hint": "1787271032",
+  "updated_at": "2026-08-21 09:10:32 KST",
+  "updated_at_utc": "2026-08-21T00:10:32.722307+00:00"
 }
