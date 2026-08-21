@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 713.375,
+    "price": 713.9,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 135.965,
+    "price": 135.805,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -26,7 +26,7 @@
   "pave": {
     "symbol": "PAVE",
     "name": "PAVE",
-    "price": 56.2161,
+    "price": 56.215,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -42,20 +42,23 @@
   "sox": {
     "symbol": "SOX",
     "name": "필라델피아 반도체지수",
-    "price": 11672.8,
+    "price": 11684.91,
     "currency": "INDEX",
-    "change": -127.22,
-    "change_pct": -1.08,
+    "change": -115.11,
+    "change_pct": -0.98,
     "previous_close": 11800.02,
     "open": 11901.79,
     "high": 11943.96,
     "low": 11631.72,
     "quote_date": "20260821",
-    "quote_time": "125700",
+    "quote_time": "130100",
     "minute_bar": {
       "date": "20260821",
-      "time": "125700",
-      "price": null,
+      "time": "130100",
+      "price": 11684.91,
+      "open": 11687.05,
+      "high": 11687.05,
+      "low": 11683.02,
       "volume": 0
     },
     "realtime_guaranteed": false,
@@ -3205,9 +3208,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 5,
-  "generated_at_epoch": 1787331467,
+  "generated_at_epoch": 1787331706,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787331467",
-  "updated_at": "2026-08-22 01:57:47 KST",
-  "updated_at_utc": "2026-08-21T16:57:47.797939+00:00"
+  "cache_bust_hint": "1787331706",
+  "updated_at": "2026-08-22 02:01:46 KST",
+  "updated_at_utc": "2026-08-21T17:01:46.661314+00:00"
 }
