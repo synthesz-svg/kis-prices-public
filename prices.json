@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 713.0131,
+    "price": 712.97,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 136.88,
+    "price": 136.969,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -34,9 +34,9 @@
   "usd_krw": {
     "symbol": "USD/KRW",
     "name": "달러/원 참고환율",
-    "price": null,
+    "price": 1384.23,
     "currency": "KRW",
-    "error": "환율 서버 응답 시간 초과",
+    "error": null,
     "source": "Frankfurter API"
   },
   "sox": {
@@ -3211,14 +3211,14 @@
     "previous_1_week": 63.97,
     "previous_1_month": 43.37,
     "previous_1_year": 52.6,
-    "timestamp": "2026-08-21T20:42:25+00:00",
+    "timestamp": "2026-08-21T20:47:27+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 6,
-  "generated_at_epoch": 1787346072,
+  "generated_at_epoch": 1787346377,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787346072",
-  "updated_at": "2026-08-22 06:01:12 KST",
-  "updated_at_utc": "2026-08-21T21:01:12.318360+00:00"
+  "cache_bust_hint": "1787346377",
+  "updated_at": "2026-08-22 06:06:17 KST",
+  "updated_at_utc": "2026-08-21T21:06:17.294364+00:00"
 }
