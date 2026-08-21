@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 712.71,
+    "price": 712.9401,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 135.715,
+    "price": 136.0802,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -26,7 +26,7 @@
   "pave": {
     "symbol": "PAVE",
     "name": "PAVE",
-    "price": 56.45,
+    "price": 56.445,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -42,31 +42,31 @@
   "sox": {
     "symbol": "SOX",
     "name": "필라델피아 반도체지수",
-    "price": 11729.43,
+    "price": 11731.4,
     "currency": "INDEX",
-    "change": -70.59,
-    "change_pct": -0.6,
+    "change": -68.62,
+    "change_pct": -0.58,
     "previous_close": 11800.02,
     "open": 11901.79,
     "high": 11943.96,
     "low": 11631.72,
     "quote_date": "20260822",
-    "quote_time": "034300",
+    "quote_time": "034800",
     "quote_timezone": "Asia/Seoul",
     "source_quote_date": "20260821",
-    "source_quote_time": "144300",
+    "source_quote_time": "144800",
     "source_timezone": "America/New_York",
     "minute_bar": {
       "date": "20260822",
-      "time": "034300",
+      "time": "034800",
       "timezone": "Asia/Seoul",
       "source_date": "20260821",
-      "source_time": "144300",
+      "source_time": "144800",
       "source_timezone": "America/New_York",
-      "price": 11729.43,
-      "open": 11729.88,
-      "high": 11730.87,
-      "low": 11729.26,
+      "price": 11731.4,
+      "open": 11726.07,
+      "high": 11731.4,
+      "low": 11726.07,
       "volume": 0
     },
     "realtime_guaranteed": false,
@@ -3211,14 +3211,14 @@
     "previous_1_week": 63.97,
     "previous_1_month": 43.37,
     "previous_1_year": 52.6,
-    "timestamp": "2026-08-21T18:32:28+00:00",
+    "timestamp": "2026-08-21T18:45:02+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 6,
-  "generated_at_epoch": 1787337817,
+  "generated_at_epoch": 1787338122,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787337817",
-  "updated_at": "2026-08-22 03:43:37 KST",
-  "updated_at_utc": "2026-08-21T18:43:37.559528+00:00"
+  "cache_bust_hint": "1787338122",
+  "updated_at": "2026-08-22 03:48:42 KST",
+  "updated_at_utc": "2026-08-21T18:48:42.628715+00:00"
 }
