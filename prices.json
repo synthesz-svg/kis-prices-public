@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 713.35,
+    "price": 713.375,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 135.95,
+    "price": 135.965,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -26,7 +26,7 @@
   "pave": {
     "symbol": "PAVE",
     "name": "PAVE",
-    "price": 56.225,
+    "price": 56.2161,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -38,6 +38,30 @@
     "currency": "KRW",
     "error": null,
     "source": "Frankfurter API"
+  },
+  "sox": {
+    "symbol": "SOX",
+    "name": "필라델피아 반도체지수",
+    "price": 11672.8,
+    "currency": "INDEX",
+    "change": -127.22,
+    "change_pct": -1.08,
+    "previous_close": 11800.02,
+    "open": 11901.79,
+    "high": 11943.96,
+    "low": 11631.72,
+    "quote_date": "20260821",
+    "quote_time": "125700",
+    "minute_bar": {
+      "date": "20260821",
+      "time": "125700",
+      "price": null,
+      "volume": 0
+    },
+    "realtime_guaranteed": false,
+    "delay_note": "KIS 시세 이용 조건에 따라 지연시세 또는 종가시세일 수 있습니다.",
+    "error": null,
+    "source": "KIS Open API 해외지수 분봉"
   },
   "samsung_flow": {
     "symbol": "005930",
@@ -3176,14 +3200,14 @@
     "previous_1_week": 63.97,
     "previous_1_month": 43.37,
     "previous_1_year": 52.6,
-    "timestamp": "2026-08-21T16:43:47+00:00",
+    "timestamp": "2026-08-21T16:52:52+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 5,
-  "generated_at_epoch": 1787331152,
+  "generated_at_epoch": 1787331467,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787331152",
-  "updated_at": "2026-08-22 01:52:32 KST",
-  "updated_at_utc": "2026-08-21T16:52:32.207411+00:00"
+  "cache_bust_hint": "1787331467",
+  "updated_at": "2026-08-22 01:57:47 KST",
+  "updated_at_utc": "2026-08-21T16:57:47.797939+00:00"
 }
