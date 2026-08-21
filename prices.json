@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 713.3316,
+    "price": 713.245,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 135.262,
+    "price": 135.468,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -26,7 +26,7 @@
   "pave": {
     "symbol": "PAVE",
     "name": "PAVE",
-    "price": 56.3,
+    "price": 56.315,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -42,31 +42,31 @@
   "sox": {
     "symbol": "SOX",
     "name": "필라델피아 반도체지수",
-    "price": 11740.24,
+    "price": 11737.8,
     "currency": "INDEX",
-    "change": -59.78,
-    "change_pct": -0.51,
+    "change": -62.22,
+    "change_pct": -0.53,
     "previous_close": 11800.02,
     "open": 11901.79,
     "high": 11943.96,
     "low": 11631.72,
     "quote_date": "20260822",
-    "quote_time": "025200",
+    "quote_time": "025700",
     "quote_timezone": "Asia/Seoul",
     "source_quote_date": "20260821",
-    "source_quote_time": "135200",
+    "source_quote_time": "135700",
     "source_timezone": "America/New_York",
     "minute_bar": {
       "date": "20260822",
-      "time": "025200",
+      "time": "025700",
       "timezone": "Asia/Seoul",
       "source_date": "20260821",
-      "source_time": "135200",
+      "source_time": "135700",
       "source_timezone": "America/New_York",
-      "price": 11740.24,
-      "open": 11742.0,
-      "high": 11743.27,
-      "low": 11738.7,
+      "price": 11737.8,
+      "open": 11738.73,
+      "high": 11739.23,
+      "low": 11736.27,
       "volume": 0
     },
     "realtime_guaranteed": false,
@@ -3204,21 +3204,21 @@
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
   "fear_greed": {
-    "score": 55.57,
+    "score": 55.54,
     "rating": "greed",
     "rating_ko": "탐욕",
     "previous_close": 52.49,
     "previous_1_week": 63.97,
     "previous_1_month": 43.37,
     "previous_1_year": 52.6,
-    "timestamp": "2026-08-21T17:51:31+00:00",
+    "timestamp": "2026-08-21T17:54:28+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 6,
-  "generated_at_epoch": 1787334763,
+  "generated_at_epoch": 1787335069,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787334763",
-  "updated_at": "2026-08-22 02:52:43 KST",
-  "updated_at_utc": "2026-08-21T17:52:43.729192+00:00"
+  "cache_bust_hint": "1787335069",
+  "updated_at": "2026-08-22 02:57:49 KST",
+  "updated_at_utc": "2026-08-21T17:57:49.051487+00:00"
 }
