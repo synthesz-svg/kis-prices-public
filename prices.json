@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 713.26,
+    "price": 713.09,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 136.5927,
+    "price": 136.8534,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -51,17 +51,17 @@
     "high": 11943.96,
     "low": 11631.72,
     "quote_date": "20260822",
-    "quote_time": "050500",
+    "quote_time": "051000",
     "quote_timezone": "Asia/Seoul",
     "source_quote_date": "20260821",
-    "source_quote_time": "160500",
+    "source_quote_time": "161000",
     "source_timezone": "America/New_York",
     "minute_bar": {
       "date": "20260822",
-      "time": "050500",
+      "time": "051000",
       "timezone": "Asia/Seoul",
       "source_date": "20260821",
-      "source_time": "160500",
+      "source_time": "161000",
       "source_timezone": "America/New_York",
       "price": 11740.37,
       "open": 11740.37,
@@ -3216,9 +3216,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 6,
-  "generated_at_epoch": 1787342701,
+  "generated_at_epoch": 1787343006,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787342701",
-  "updated_at": "2026-08-22 05:05:01 KST",
-  "updated_at_utc": "2026-08-21T20:05:01.223262+00:00"
+  "cache_bust_hint": "1787343006",
+  "updated_at": "2026-08-22 05:10:06 KST",
+  "updated_at_utc": "2026-08-21T20:10:06.250162+00:00"
 }
