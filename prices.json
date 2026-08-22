@@ -31,6 +31,30 @@
     "error": null,
     "source": "KIS Open API"
   },
+  "smh": {
+    "symbol": "SMH",
+    "name": "SMH",
+    "price": 560.42,
+    "currency": "USD",
+    "error": null,
+    "source": "KIS Open API"
+  },
+  "xlk": {
+    "symbol": "XLK",
+    "name": "XLK",
+    "price": 183.31,
+    "currency": "USD",
+    "error": null,
+    "source": "KIS Open API"
+  },
+  "ivv": {
+    "symbol": "IVV",
+    "name": "IVV",
+    "price": 769.31,
+    "currency": "USD",
+    "error": null,
+    "source": "KIS Open API"
+  },
   "usd_krw": {
     "symbol": "USD/KRW",
     "name": "달러/원 참고환율",
@@ -3215,10 +3239,10 @@
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
-  "schema_version": 6,
-  "generated_at_epoch": 1787365297,
+  "schema_version": 7,
+  "generated_at_epoch": 1787365562,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787365297",
-  "updated_at": "2026-08-22 11:21:37 KST",
-  "updated_at_utc": "2026-08-22T02:21:37.935112+00:00"
+  "cache_bust_hint": "1787365562",
+  "updated_at": "2026-08-22 11:26:02 KST",
+  "updated_at_utc": "2026-08-22T02:26:02.293322+00:00"
 }
