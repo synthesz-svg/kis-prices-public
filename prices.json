@@ -101,12 +101,7 @@
   "samsung_flow": {
     "symbol": "005930",
     "name": "삼성전자 수급",
-    "intraday_estimate": {
-      "estimate_slot": "5",
-      "foreign_net_qty": 1222000,
-      "institution_net_qty": -11000,
-      "total_net_qty": 1211000
-    },
+    "intraday_estimate": null,
     "intraday_estimate_error": null,
     "foreign_broker": {
       "foreign_broker_buy_qty": 1702851,
@@ -3240,9 +3235,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 7,
-  "generated_at_epoch": 1787512747,
+  "generated_at_epoch": 1787513053,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787512747",
-  "updated_at": "2026-08-24 04:19:07 KST",
-  "updated_at_utc": "2026-08-23T19:19:07.842026+00:00"
+  "cache_bust_hint": "1787513053",
+  "updated_at": "2026-08-24 04:24:13 KST",
+  "updated_at_utc": "2026-08-23T19:24:13.764905+00:00"
 }
