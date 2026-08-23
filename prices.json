@@ -109,7 +109,7 @@
       "foreign_broker_net_qty": 0,
       "foreign_buy_ratio_pct": 0.0,
       "foreign_sell_ratio_pct": 0.0,
-      "accumulated_volume": 278
+      "accumulated_volume": 312
     },
     "member_error": null,
     "daily_investor_raw": {
@@ -3235,9 +3235,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 7,
-  "generated_at_epoch": 1787528041,
+  "generated_at_epoch": 1787528347,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787528041",
-  "updated_at": "2026-08-24 08:34:01 KST",
-  "updated_at_utc": "2026-08-23T23:34:01.438310+00:00"
+  "cache_bust_hint": "1787528347",
+  "updated_at": "2026-08-24 08:39:07 KST",
+  "updated_at_utc": "2026-08-23T23:39:07.231533+00:00"
 }
