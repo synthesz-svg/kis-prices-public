@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 708.9387,
+    "price": 708.7,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 134.3,
+    "price": 134.2398,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -34,7 +34,7 @@
   "smh": {
     "symbol": "SMH",
     "name": "SMH",
-    "price": 553.6575,
+    "price": 552.8,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -50,7 +50,7 @@
   "ivv": {
     "symbol": "IVV",
     "name": "IVV",
-    "price": 767.75,
+    "price": 767.47,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -101,7 +101,7 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-08-24T19:45:29.265730+09:00",
+    "queried_at": "2026-08-24T19:50:36.338247+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
@@ -116,9 +116,9 @@
         "source_kind": "official_kis_api",
         "change": -25000.0,
         "change_pct": -8.88,
-        "volume": 19298411,
+        "volume": 19414918,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-08-24T19:45:29.265730+09:00",
+        "observed_at": "2026-08-24T19:50:36.338247+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "session_phase": "after_market",
@@ -135,9 +135,9 @@
         "source_kind": "official_kis_api",
         "change": -25000.0,
         "change_pct": -8.88,
-        "volume": 51750364,
+        "volume": 51866873,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-08-24T19:45:29.265730+09:00",
+        "observed_at": "2026-08-24T19:50:36.338247+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "usable_now": true
@@ -155,7 +155,7 @@
         "change_pct": -8.7,
         "expected_volume": 2298332,
         "market_operation_code": "112",
-        "observed_at": "2026-08-24T19:45:29.265730+09:00",
+        "observed_at": "2026-08-24T19:50:36.338247+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-08-24T19:45:29.265730+09:00",
+        "observed_at": "2026-08-24T19:50:36.338247+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -191,9 +191,9 @@
         "source_kind": "official_kis_api",
         "change": -25000.0,
         "change_pct": -8.88,
-        "volume": 19298411,
+        "volume": 19414918,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-08-24T19:45:29.265730+09:00",
+        "observed_at": "2026-08-24T19:50:36.338247+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "session_phase": "after_market",
@@ -3336,7 +3336,7 @@
     },
     "daily_investor_error": null,
     "daily_investor_source": "live",
-    "daily_investor_saved_at": "2026-08-24T19:45:31.065504+09:00",
+    "daily_investor_saved_at": "2026-08-24T19:50:38.139643+09:00",
     "source": "KIS Open API",
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
@@ -3348,14 +3348,14 @@
     "previous_1_week": 58.4,
     "previous_1_month": 41.34,
     "previous_1_year": 55.54,
-    "timestamp": "2026-08-24T10:28:01+00:00",
+    "timestamp": "2026-08-24T10:33:01+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1787568333,
+  "generated_at_epoch": 1787568640,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787568333",
-  "updated_at": "2026-08-24 19:45:33 KST",
-  "updated_at_utc": "2026-08-24T10:45:33.898389+00:00"
+  "cache_bust_hint": "1787568640",
+  "updated_at": "2026-08-24 19:50:40 KST",
+  "updated_at_utc": "2026-08-24T10:50:40.951231+00:00"
 }
