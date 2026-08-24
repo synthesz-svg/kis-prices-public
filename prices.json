@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 709.57,
+    "price": 709.625,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 134.5,
+    "price": 134.45,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -34,7 +34,7 @@
   "smh": {
     "symbol": "SMH",
     "name": "SMH",
-    "price": 554.5795,
+    "price": 553.9925,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -42,7 +42,7 @@
   "xlk": {
     "symbol": "XLK",
     "name": "XLK",
-    "price": 181.5112,
+    "price": 182.11,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -3223,7 +3223,7 @@
     },
     "daily_investor_error": null,
     "daily_investor_source": "live",
-    "daily_investor_saved_at": "2026-08-24T18:56:11.616050+09:00",
+    "daily_investor_saved_at": "2026-08-24T19:01:17.535783+09:00",
     "source": "KIS Open API",
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
@@ -3235,14 +3235,14 @@
     "previous_1_week": 58.4,
     "previous_1_month": 41.34,
     "previous_1_year": 55.54,
-    "timestamp": "2026-08-24T09:38:01+00:00",
+    "timestamp": "2026-08-24T09:43:01+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 7,
-  "generated_at_epoch": 1787565374,
+  "generated_at_epoch": 1787565680,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787565374",
-  "updated_at": "2026-08-24 18:56:14 KST",
-  "updated_at_utc": "2026-08-24T09:56:14.432749+00:00"
+  "cache_bust_hint": "1787565680",
+  "updated_at": "2026-08-24 19:01:20 KST",
+  "updated_at_utc": "2026-08-24T10:01:20.286449+00:00"
 }
