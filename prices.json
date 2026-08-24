@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 713.44,
+    "price": 707.34,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 136.97,
+    "price": 133.6816,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -26,7 +26,7 @@
   "pave": {
     "symbol": "PAVE",
     "name": "PAVE",
-    "price": 56.39,
+    "price": 56.6,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -34,7 +34,7 @@
   "smh": {
     "symbol": "SMH",
     "name": "SMH",
-    "price": 560.42,
+    "price": 552.0,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -42,7 +42,7 @@
   "xlk": {
     "symbol": "XLK",
     "name": "XLK",
-    "price": 183.31,
+    "price": 181.67,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -50,7 +50,7 @@
   "ivv": {
     "symbol": "IVV",
     "name": "IVV",
-    "price": 769.31,
+    "price": 767.342,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -3223,7 +3223,7 @@
     },
     "daily_investor_error": null,
     "daily_investor_source": "live",
-    "daily_investor_saved_at": "2026-08-24T16:58:51.831779+09:00",
+    "daily_investor_saved_at": "2026-08-24T17:03:57.976490+09:00",
     "source": "KIS Open API",
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
@@ -3235,14 +3235,14 @@
     "previous_1_week": 58.4,
     "previous_1_month": 41.34,
     "previous_1_year": 55.54,
-    "timestamp": "2026-08-24T07:42:46+00:00",
+    "timestamp": "2026-08-24T07:48:01+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 7,
-  "generated_at_epoch": 1787558334,
+  "generated_at_epoch": 1787558640,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787558334",
-  "updated_at": "2026-08-24 16:58:54 KST",
-  "updated_at_utc": "2026-08-24T07:58:54.664643+00:00"
+  "cache_bust_hint": "1787558640",
+  "updated_at": "2026-08-24 17:04:00 KST",
+  "updated_at_utc": "2026-08-24T08:04:00.834437+00:00"
 }
