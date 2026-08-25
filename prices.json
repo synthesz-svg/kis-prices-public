@@ -2,7 +2,7 @@
   "samsung": {
     "symbol": "005930",
     "name": "삼성전자",
-    "price": 247500.0,
+    "price": 249500.0,
     "currency": "KRW",
     "error": null,
     "source": "KIS Open API"
@@ -101,24 +101,24 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-08-25T09:50:26.385195+09:00",
+    "queried_at": "2026-08-25T09:55:33.552285+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
       "nxt": {
         "market": "NXT",
         "session": "NXT extended/regular",
-        "price": 248000.0,
+        "price": 249500.0,
         "currency": "KRW",
         "available": true,
         "error": null,
         "source": "KIS Open API 주식현재가 시세2 (NX)",
         "source_kind": "official_kis_api",
-        "change": -9000.0,
-        "change_pct": -3.5,
-        "volume": 6156907,
+        "change": -7500.0,
+        "change_pct": -2.92,
+        "volume": 6237376,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-08-25T09:50:26.385195+09:00",
+        "observed_at": "2026-08-25T09:55:33.552285+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "session_phase": "main_market",
@@ -127,17 +127,17 @@
       "integrated": {
         "market": "KRX+NXT",
         "session": "integrated",
-        "price": 248000.0,
+        "price": 249750.0,
         "currency": "KRW",
         "available": true,
         "error": null,
         "source": "KIS Open API 주식현재가 시세2 (UN)",
         "source_kind": "official_kis_api",
-        "change": -9000.0,
-        "change_pct": -3.5,
-        "volume": 12039089,
+        "change": -7250.0,
+        "change_pct": -2.82,
+        "volume": 12604200,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-08-25T09:50:26.385195+09:00",
+        "observed_at": "2026-08-25T09:55:33.552285+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "usable_now": true
@@ -155,7 +155,7 @@
         "change_pct": -3.11,
         "expected_volume": 641652,
         "market_operation_code": "112",
-        "observed_at": "2026-08-25T09:50:26.385195+09:00",
+        "observed_at": "2026-08-25T09:55:33.552285+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-08-25T09:50:26.385195+09:00",
+        "observed_at": "2026-08-25T09:55:33.552285+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -234,19 +234,19 @@
     "symbol": "005930",
     "name": "삼성전자 수급",
     "intraday_estimate": {
-      "estimate_slot": "1",
-      "foreign_net_qty": -1607000,
-      "institution_net_qty": 0,
-      "total_net_qty": -1607000
+      "estimate_slot": "2",
+      "foreign_net_qty": -2680000,
+      "institution_net_qty": 51000,
+      "total_net_qty": -2629000
     },
     "intraday_estimate_error": null,
     "foreign_broker": {
       "foreign_broker_buy_qty": 300246,
-      "foreign_broker_sell_qty": 2910175,
-      "foreign_broker_net_qty": -2609929,
-      "foreign_buy_ratio_pct": 5.1,
-      "foreign_sell_ratio_pct": 49.47,
-      "accumulated_volume": 5882377
+      "foreign_broker_sell_qty": 3030856,
+      "foreign_broker_net_qty": -2730610,
+      "foreign_buy_ratio_pct": 4.72,
+      "foreign_sell_ratio_pct": 47.6,
+      "accumulated_volume": 6366838
     },
     "member_error": null,
     "daily_investor_raw": {
@@ -3372,9 +3372,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1787619031,
+  "generated_at_epoch": 1787619338,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787619031",
-  "updated_at": "2026-08-25 09:50:31 KST",
-  "updated_at_utc": "2026-08-25T00:50:31.179950+00:00"
+  "cache_bust_hint": "1787619338",
+  "updated_at": "2026-08-25 09:55:38 KST",
+  "updated_at_utc": "2026-08-25T00:55:38.042785+00:00"
 }
