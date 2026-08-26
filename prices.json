@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 709.45,
+    "price": 709.6282,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 138.07,
+    "price": 138.117,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -34,7 +34,7 @@
   "smh": {
     "symbol": "SMH",
     "name": "SMH",
-    "price": 557.8402,
+    "price": 556.0,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -42,7 +42,7 @@
   "xlk": {
     "symbol": "XLK",
     "name": "XLK",
-    "price": 181.45,
+    "price": 181.1384,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -101,7 +101,7 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-08-26T17:56:04.293290+09:00",
+    "queried_at": "2026-08-26T18:01:13.598349+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
@@ -116,9 +116,9 @@
         "source_kind": "official_kis_api",
         "change": 3000.0,
         "change_pct": 1.17,
-        "volume": 9820200,
+        "volume": 9845721,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-08-26T17:56:04.293290+09:00",
+        "observed_at": "2026-08-26T18:01:13.598349+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "session_phase": "after_market",
@@ -127,17 +127,17 @@
       "integrated": {
         "market": "KRX+NXT",
         "session": "integrated",
-        "price": 259500.0,
+        "price": 260000.0,
         "currency": "KRW",
         "available": true,
         "error": null,
         "source": "KIS Open API 주식현재가 시세2 (UN)",
         "source_kind": "official_kis_api",
-        "change": 2500.0,
-        "change_pct": 0.97,
-        "volume": 29352736,
+        "change": 3000.0,
+        "change_pct": 1.17,
+        "volume": 29378244,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-08-26T17:56:04.293290+09:00",
+        "observed_at": "2026-08-26T18:01:13.598349+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "usable_now": true
@@ -155,7 +155,7 @@
         "change_pct": 1.75,
         "expected_volume": 1690790,
         "market_operation_code": "112",
-        "observed_at": "2026-08-26T17:56:04.293290+09:00",
+        "observed_at": "2026-08-26T18:01:13.598349+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,10 +173,10 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-08-26T17:56:04.293290+09:00",
+        "observed_at": "2026-08-26T18:01:13.598349+09:00",
         "timezone": "Asia/Seoul",
-        "session_active": true,
-        "usable_now": true
+        "session_active": false,
+        "usable_now": false
       }
     },
     "session_snapshots": {
@@ -230,9 +230,9 @@
         "source_kind": "official_kis_api",
         "change": 3000.0,
         "change_pct": 1.17,
-        "volume": 9820200,
+        "volume": 9845721,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-08-26T17:56:04.293290+09:00",
+        "observed_at": "2026-08-26T18:01:13.598349+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "session_phase": "after_market",
@@ -3394,7 +3394,7 @@
     },
     "daily_investor_error": null,
     "daily_investor_source": "live",
-    "daily_investor_saved_at": "2026-08-26T17:56:06.107546+09:00",
+    "daily_investor_saved_at": "2026-08-26T18:01:15.438215+09:00",
     "source": "KIS Open API",
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
@@ -3406,14 +3406,14 @@
     "previous_1_week": 57.2,
     "previous_1_month": 41.34,
     "previous_1_year": 55.4,
-    "timestamp": "2026-08-26T08:37:16+00:00",
+    "timestamp": "2026-08-26T08:42:16+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1787734568,
+  "generated_at_epoch": 1787734878,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787734568",
-  "updated_at": "2026-08-26 17:56:08 KST",
-  "updated_at_utc": "2026-08-26T08:56:08.925330+00:00"
+  "cache_bust_hint": "1787734878",
+  "updated_at": "2026-08-26 18:01:18 KST",
+  "updated_at_utc": "2026-08-26T09:01:18.462581+00:00"
 }
