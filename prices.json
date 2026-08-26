@@ -2,7 +2,7 @@
   "samsung": {
     "symbol": "005930",
     "name": "삼성전자",
-    "price": 258000.0,
+    "price": 257750.0,
     "currency": "KRW",
     "error": null,
     "source": "KIS Open API"
@@ -101,24 +101,24 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-08-26T11:01:21.433233+09:00",
+    "queried_at": "2026-08-26T11:06:28.966260+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
       "nxt": {
         "market": "NXT",
         "session": "NXT extended/regular",
-        "price": 258500.0,
+        "price": 258000.0,
         "currency": "KRW",
         "available": true,
         "error": null,
         "source": "KIS Open API 주식현재가 시세2 (NX)",
         "source_kind": "official_kis_api",
-        "change": 1500.0,
-        "change_pct": 0.58,
-        "volume": 4431524,
+        "change": 1000.0,
+        "change_pct": 0.39,
+        "volume": 4462489,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-08-26T11:01:21.433233+09:00",
+        "observed_at": "2026-08-26T11:06:28.966260+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "session_phase": "main_market",
@@ -127,17 +127,17 @@
       "integrated": {
         "market": "KRX+NXT",
         "session": "integrated",
-        "price": 258000.0,
+        "price": 257750.0,
         "currency": "KRW",
         "available": true,
         "error": null,
         "source": "KIS Open API 주식현재가 시세2 (UN)",
         "source_kind": "official_kis_api",
-        "change": 1000.0,
-        "change_pct": 0.39,
-        "volume": 11150007,
+        "change": 750.0,
+        "change_pct": 0.29,
+        "volume": 11300870,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-08-26T11:01:21.433233+09:00",
+        "observed_at": "2026-08-26T11:06:28.966260+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "usable_now": true
@@ -155,7 +155,7 @@
         "change_pct": -0.19,
         "expected_volume": 393120,
         "market_operation_code": "112",
-        "observed_at": "2026-08-26T11:01:21.433233+09:00",
+        "observed_at": "2026-08-26T11:06:28.966260+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-08-26T11:01:21.433233+09:00",
+        "observed_at": "2026-08-26T11:06:28.966260+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -234,19 +234,19 @@
     "symbol": "005930",
     "name": "삼성전자 수급",
     "intraday_estimate": {
-      "estimate_slot": "2",
-      "foreign_net_qty": 530000,
-      "institution_net_qty": -46000,
-      "total_net_qty": 484000
+      "estimate_slot": "3",
+      "foreign_net_qty": 544000,
+      "institution_net_qty": -177000,
+      "total_net_qty": 367000
     },
     "intraday_estimate_error": null,
     "foreign_broker": {
-      "foreign_broker_buy_qty": 1279445,
+      "foreign_broker_buy_qty": 1313348,
       "foreign_broker_sell_qty": 500147,
-      "foreign_broker_net_qty": 779298,
-      "foreign_buy_ratio_pct": 19.04,
-      "foreign_sell_ratio_pct": 7.44,
-      "accumulated_volume": 6718532
+      "foreign_broker_net_qty": 813201,
+      "foreign_buy_ratio_pct": 19.21,
+      "foreign_sell_ratio_pct": 7.31,
+      "accumulated_volume": 6838536
     },
     "member_error": null,
     "daily_investor_raw": {
@@ -3372,9 +3372,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1787709686,
+  "generated_at_epoch": 1787709993,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1787709686",
-  "updated_at": "2026-08-26 11:01:26 KST",
-  "updated_at_utc": "2026-08-26T02:01:26.231700+00:00"
+  "cache_bust_hint": "1787709993",
+  "updated_at": "2026-08-26 11:06:33 KST",
+  "updated_at_utc": "2026-08-26T02:06:33.467589+00:00"
 }
