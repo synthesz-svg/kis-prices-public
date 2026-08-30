@@ -101,7 +101,7 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-08-31T06:26:36.452309+09:00",
+    "queried_at": "2026-08-31T06:31:43.569396+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
@@ -118,7 +118,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-08-31T06:26:36.452309+09:00",
+        "observed_at": "2026-08-31T06:31:43.569396+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "session_phase": "closed",
@@ -137,7 +137,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-08-31T06:26:36.452309+09:00",
+        "observed_at": "2026-08-31T06:31:43.569396+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -155,7 +155,7 @@
         "change_pct": 0.0,
         "expected_volume": 0,
         "market_operation_code": "",
-        "observed_at": "2026-08-31T06:26:36.452309+09:00",
+        "observed_at": "2026-08-31T06:31:43.569396+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-08-31T06:26:36.452309+09:00",
+        "observed_at": "2026-08-31T06:31:43.569396+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -3327,9 +3327,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1788125201,
+  "generated_at_epoch": 1788125508,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1788125201",
-  "updated_at": "2026-08-31 06:26:41 KST",
-  "updated_at_utc": "2026-08-30T21:26:41.029183+00:00"
+  "cache_bust_hint": "1788125508",
+  "updated_at": "2026-08-31 06:31:48 KST",
+  "updated_at_utc": "2026-08-30T21:31:48.185615+00:00"
 }
