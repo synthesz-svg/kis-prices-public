@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 707.701,
+    "price": 707.86,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 141.9653,
+    "price": 142.12,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -26,7 +26,7 @@
   "pave": {
     "symbol": "PAVE",
     "name": "PAVE",
-    "price": 53.97,
+    "price": 53.92,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -34,7 +34,7 @@
   "smh": {
     "symbol": "SMH",
     "name": "SMH",
-    "price": 545.4563,
+    "price": 545.7,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -42,7 +42,7 @@
   "xlk": {
     "symbol": "XLK",
     "name": "XLK",
-    "price": 183.789,
+    "price": 183.88,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -50,7 +50,7 @@
   "ivv": {
     "symbol": "IVV",
     "name": "IVV",
-    "price": 765.3096,
+    "price": 765.2896,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -75,17 +75,17 @@
     "high": 11389.62,
     "low": 11172.9,
     "quote_date": "20260902",
-    "quote_time": "050900",
+    "quote_time": "051400",
     "quote_timezone": "Asia/Seoul",
     "source_quote_date": "20260901",
-    "source_quote_time": "160900",
+    "source_quote_time": "161400",
     "source_timezone": "America/New_York",
     "minute_bar": {
       "date": "20260902",
-      "time": "050900",
+      "time": "051400",
       "timezone": "Asia/Seoul",
       "source_date": "20260901",
-      "source_time": "160900",
+      "source_time": "161400",
       "source_timezone": "America/New_York",
       "price": 11288.61,
       "open": 11288.61,
@@ -101,7 +101,7 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-09-02T05:09:48.680466+09:00",
+    "queried_at": "2026-09-02T05:14:55.909780+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
@@ -118,7 +118,7 @@
         "change_pct": -1.92,
         "volume": 8116467,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-02T05:09:48.680466+09:00",
+        "observed_at": "2026-09-02T05:14:55.909780+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "session_phase": "closed",
@@ -137,7 +137,7 @@
         "change_pct": -1.92,
         "volume": 23436082,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-02T05:09:48.680466+09:00",
+        "observed_at": "2026-09-02T05:14:55.909780+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -155,7 +155,7 @@
         "change_pct": 0.38,
         "expected_volume": 898169,
         "market_operation_code": "112",
-        "observed_at": "2026-09-02T05:09:48.680466+09:00",
+        "observed_at": "2026-09-02T05:14:55.909780+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-09-02T05:09:48.680466+09:00",
+        "observed_at": "2026-09-02T05:14:55.909780+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -3322,14 +3322,14 @@
     "previous_1_week": 56.77,
     "previous_1_month": 45.23,
     "previous_1_year": 61.54,
-    "timestamp": "2026-09-01T19:59:59+00:00",
+    "timestamp": "2026-09-01T20:02:18+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1788293393,
+  "generated_at_epoch": 1788293700,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1788293393",
-  "updated_at": "2026-09-02 05:09:53 KST",
-  "updated_at_utc": "2026-09-01T20:09:53.366720+00:00"
+  "cache_bust_hint": "1788293700",
+  "updated_at": "2026-09-02 05:15:00 KST",
+  "updated_at_utc": "2026-09-01T20:15:00.495004+00:00"
 }
