@@ -2,7 +2,7 @@
   "samsung": {
     "symbol": "005930",
     "name": "삼성전자",
-    "price": 260250.0,
+    "price": 261000.0,
     "currency": "KRW",
     "error": null,
     "source": "KIS Open API"
@@ -101,7 +101,7 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-09-01T15:29:58.154060+09:00",
+    "queried_at": "2026-09-01T15:35:05.053967+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
@@ -116,9 +116,9 @@
         "source_kind": "official_kis_api",
         "change": 0.0,
         "change_pct": 0.0,
-        "volume": 4941418,
+        "volume": 4941493,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-01T15:29:58.154060+09:00",
+        "observed_at": "2026-09-01T15:35:05.053967+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "session_phase": "closed",
@@ -127,35 +127,35 @@
       "integrated": {
         "market": "KRX+NXT",
         "session": "integrated",
-        "price": 260250.0,
+        "price": 261000.0,
         "currency": "KRW",
         "available": true,
         "error": null,
         "source": "KIS Open API 주식현재가 시세2 (UN)",
         "source_kind": "official_kis_api",
-        "change": 250.0,
-        "change_pct": 0.1,
-        "volume": 16808515,
+        "change": 1000.0,
+        "change_pct": 0.38,
+        "volume": 17706759,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-01T15:29:58.154060+09:00",
+        "observed_at": "2026-09-01T15:35:05.053967+09:00",
         "timezone": "Asia/Seoul",
-        "session_active": true,
-        "usable_now": true
+        "session_active": false,
+        "usable_now": false
       },
       "krx_pre_open_expected": {
         "market": "KRX",
         "session": "pre_open_expected",
-        "price": 260500.0,
+        "price": 261000.0,
         "currency": "KRW",
         "available": true,
         "error": null,
         "source": "KIS Open API 주식현재가 호가/예상체결 (J)",
         "source_kind": "official_kis_api",
-        "change": 500.0,
-        "change_pct": 0.19,
-        "expected_volume": 906994,
-        "market_operation_code": "121",
-        "observed_at": "2026-09-01T15:29:58.154060+09:00",
+        "change": 1000.0,
+        "change_pct": 0.38,
+        "expected_volume": 898169,
+        "market_operation_code": "112",
+        "observed_at": "2026-09-01T15:35:05.053967+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -163,7 +163,7 @@
       "krx_after_hours_single_price": {
         "market": "KRX",
         "session": "after_hours_single_price",
-        "price": 260000.0,
+        "price": 261000.0,
         "currency": "KRW",
         "available": true,
         "error": null,
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-09-01T15:29:58.154060+09:00",
+        "observed_at": "2026-09-01T15:35:05.053967+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -241,12 +241,12 @@
     },
     "intraday_estimate_error": null,
     "foreign_broker": {
-      "foreign_broker_buy_qty": 72628,
+      "foreign_broker_buy_qty": 915190,
       "foreign_broker_sell_qty": 1072610,
-      "foreign_broker_net_qty": -999982,
-      "foreign_buy_ratio_pct": 0.61,
-      "foreign_sell_ratio_pct": 9.04,
-      "accumulated_volume": 11867097
+      "foreign_broker_net_qty": -157420,
+      "foreign_buy_ratio_pct": 7.17,
+      "foreign_sell_ratio_pct": 8.4,
+      "accumulated_volume": 12765266
     },
     "member_error": null,
     "daily_investor_raw": {
@@ -3372,9 +3372,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1788244202,
+  "generated_at_epoch": 1788244509,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1788244202",
-  "updated_at": "2026-09-01 15:30:02 KST",
-  "updated_at_utc": "2026-09-01T06:30:02.652421+00:00"
+  "cache_bust_hint": "1788244509",
+  "updated_at": "2026-09-01 15:35:09 KST",
+  "updated_at_utc": "2026-09-01T06:35:09.602908+00:00"
 }
