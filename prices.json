@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 708.185,
+    "price": 708.52,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 140.0526,
+    "price": 140.05,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -26,7 +26,7 @@
   "pave": {
     "symbol": "PAVE",
     "name": "PAVE",
-    "price": 54.265,
+    "price": 54.295,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -34,7 +34,7 @@
   "smh": {
     "symbol": "SMH",
     "name": "SMH",
-    "price": 549.28,
+    "price": 550.41,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -42,7 +42,7 @@
   "xlk": {
     "symbol": "XLK",
     "name": "XLK",
-    "price": 183.27,
+    "price": 183.39,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -50,7 +50,7 @@
   "ivv": {
     "symbol": "IVV",
     "name": "IVV",
-    "price": 769.14,
+    "price": 769.09,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -66,31 +66,31 @@
   "sox": {
     "symbol": "SOX",
     "name": "필라델피아 반도체지수",
-    "price": 11300.9,
+    "price": 11320.68,
     "currency": "INDEX",
-    "change": 12.29,
-    "change_pct": 0.11,
+    "change": 32.07,
+    "change_pct": 0.28,
     "previous_close": 11288.61,
     "open": 11243.55,
     "high": 11377.57,
     "low": 11159.39,
     "quote_date": "20260903",
-    "quote_time": "000600",
+    "quote_time": "001100",
     "quote_timezone": "Asia/Seoul",
     "source_quote_date": "20260902",
-    "source_quote_time": "110600",
+    "source_quote_time": "111100",
     "source_timezone": "America/New_York",
     "minute_bar": {
       "date": "20260903",
-      "time": "000600",
+      "time": "001100",
       "timezone": "Asia/Seoul",
       "source_date": "20260902",
-      "source_time": "110600",
+      "source_time": "111100",
       "source_timezone": "America/New_York",
-      "price": 11300.9,
-      "open": 11294.02,
-      "high": 11302.49,
-      "low": 11294.0,
+      "price": 11320.68,
+      "open": 11319.69,
+      "high": 11320.68,
+      "low": 11315.71,
       "volume": 0
     },
     "realtime_guaranteed": false,
@@ -101,7 +101,7 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-09-03T00:06:43.463590+09:00",
+    "queried_at": "2026-09-03T00:11:50.995985+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
@@ -118,7 +118,7 @@
         "change_pct": -4.79,
         "volume": 8746136,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-03T00:06:43.463590+09:00",
+        "observed_at": "2026-09-03T00:11:50.995985+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "session_phase": "closed",
@@ -137,7 +137,7 @@
         "change_pct": -4.79,
         "volume": 23922977,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-03T00:06:43.463590+09:00",
+        "observed_at": "2026-09-03T00:11:50.995985+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -155,7 +155,7 @@
         "change_pct": -4.02,
         "expected_volume": 1450969,
         "market_operation_code": "112",
-        "observed_at": "2026-09-03T00:06:43.463590+09:00",
+        "observed_at": "2026-09-03T00:11:50.995985+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-09-03T00:06:43.463590+09:00",
+        "observed_at": "2026-09-03T00:11:50.995985+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -3320,21 +3320,21 @@
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
   "fear_greed": {
-    "score": 35.46,
+    "score": 35.23,
     "rating": "fear",
     "rating_ko": "공포",
     "previous_close": 44.57,
     "previous_1_week": 53.94,
     "previous_1_month": 45.23,
     "previous_1_year": 62.46,
-    "timestamp": "2026-09-02T15:01:12+00:00",
+    "timestamp": "2026-09-02T15:07:35+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1788361608,
+  "generated_at_epoch": 1788361915,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1788361608",
-  "updated_at": "2026-09-03 00:06:48 KST",
-  "updated_at_utc": "2026-09-02T15:06:48.565594+00:00"
+  "cache_bust_hint": "1788361915",
+  "updated_at": "2026-09-03 00:11:55 KST",
+  "updated_at_utc": "2026-09-02T15:11:55.563117+00:00"
 }
