@@ -101,7 +101,7 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-09-06T07:54:54.062145+09:00",
+    "queried_at": "2026-09-06T08:00:00.916779+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
@@ -118,7 +118,7 @@
         "change_pct": 2.8,
         "volume": 7397798,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-06T07:54:54.062145+09:00",
+        "observed_at": "2026-09-06T08:00:00.916779+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "session_phase": "closed",
@@ -137,7 +137,7 @@
         "change_pct": 2.8,
         "volume": 21429660,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-06T07:54:54.062145+09:00",
+        "observed_at": "2026-09-06T08:00:00.916779+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -155,7 +155,7 @@
         "change_pct": 2.2,
         "expected_volume": 1533513,
         "market_operation_code": "112",
-        "observed_at": "2026-09-06T07:54:54.062145+09:00",
+        "observed_at": "2026-09-06T08:00:00.916779+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -163,17 +163,17 @@
       "krx_after_hours_single_price": {
         "market": "KRX",
         "session": "after_hours_single_price",
-        "price": 255500.0,
+        "price": null,
         "currency": "KRW",
-        "available": true,
-        "error": null,
+        "available": false,
+        "error": "삼성전자 KRX 시간외 단일가 조회 실패: 조회 처리 중 오류 발생하였습니다. 재 조회 수행 부탁드립니다.",
         "source": "KIS Open API 국내주식 시간외현재가 (J)",
         "source_kind": "official_kis_api",
-        "change": 0.0,
-        "change_pct": 0.0,
+        "change": null,
+        "change_pct": null,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-09-06T07:54:54.062145+09:00",
+        "observed_at": "2026-09-06T08:00:00.916779+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -193,22 +193,10 @@
   "samsung_flow": {
     "symbol": "005930",
     "name": "삼성전자 수급",
-    "intraday_estimate": {
-      "estimate_slot": "5",
-      "foreign_net_qty": 962000,
-      "institution_net_qty": 831000,
-      "total_net_qty": 1793000
-    },
-    "intraday_estimate_error": null,
-    "foreign_broker": {
-      "foreign_broker_buy_qty": 807093,
-      "foreign_broker_sell_qty": 91406,
-      "foreign_broker_net_qty": 715687,
-      "foreign_buy_ratio_pct": 5.75,
-      "foreign_sell_ratio_pct": 0.65,
-      "accumulated_volume": 14031862
-    },
-    "member_error": null,
+    "intraday_estimate": null,
+    "intraday_estimate_error": "삼성전자 외인기관 추정수급 조회 실패: 조회 처리 중 오류 발생하였습니다. 재 조회 수행 부탁드립니다.",
+    "foreign_broker": null,
+    "member_error": "삼성전자 회원사 수급 조회 실패: 조회 처리 중 오류 발생하였습니다. 재 조회 수행 부탁드립니다.",
     "daily_investor_raw": {
       "query_date": "20260905",
       "output1": {
@@ -3332,9 +3320,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1788648898,
+  "generated_at_epoch": 1788649206,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1788648898",
-  "updated_at": "2026-09-06 07:54:58 KST",
-  "updated_at_utc": "2026-09-05T22:54:58.584378+00:00"
+  "cache_bust_hint": "1788649206",
+  "updated_at": "2026-09-06 08:00:06 KST",
+  "updated_at_utc": "2026-09-05T23:00:06.479486+00:00"
 }
