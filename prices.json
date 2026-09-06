@@ -101,7 +101,7 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-09-07T08:49:31.551020+09:00",
+    "queried_at": "2026-09-07T08:54:41.709301+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
@@ -116,13 +116,13 @@
         "source_kind": "official_kis_api",
         "change": 10500.0,
         "change_pct": 4.11,
-        "volume": 3670531,
+        "volume": 3688187,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-07T08:49:31.551020+09:00",
+        "observed_at": "2026-09-07T08:54:41.709301+09:00",
         "timezone": "Asia/Seoul",
-        "session_active": true,
-        "session_phase": "pre_market",
-        "usable_now": true
+        "session_active": false,
+        "session_phase": "closed",
+        "usable_now": false
       },
       "integrated": {
         "market": "KRX+NXT",
@@ -135,30 +135,30 @@
         "source_kind": "official_kis_api",
         "change": 10500.0,
         "change_pct": 4.11,
-        "volume": 3670537,
+        "volume": 3688188,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-07T08:49:31.551020+09:00",
+        "observed_at": "2026-09-07T08:54:41.709301+09:00",
         "timezone": "Asia/Seoul",
-        "session_active": true,
-        "usable_now": true
+        "session_active": false,
+        "usable_now": false
       },
       "krx_pre_open_expected": {
         "market": "KRX",
         "session": "pre_open_expected",
-        "price": null,
+        "price": 267000.0,
         "currency": "KRW",
-        "available": false,
-        "error": "KIS 응답은 정상이지만 해당 시장·세션의 유효한 가격이 없습니다.",
+        "available": true,
+        "error": null,
         "source": "KIS Open API 주식현재가 호가/예상체결 (J)",
         "source_kind": "official_kis_api",
-        "change": 0.0,
-        "change_pct": 0.0,
-        "expected_volume": 0,
-        "market_operation_code": "112",
-        "observed_at": "2026-09-07T08:49:31.551020+09:00",
+        "change": 11500.0,
+        "change_pct": 4.5,
+        "expected_volume": 161712,
+        "market_operation_code": "311",
+        "observed_at": "2026-09-07T08:54:41.709301+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
-        "usable_now": false
+        "usable_now": true
       },
       "krx_after_hours_single_price": {
         "market": "KRX",
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-09-07T08:49:31.551020+09:00",
+        "observed_at": "2026-09-07T08:54:41.709301+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -199,6 +199,25 @@
         "session_phase": "pre_market",
         "usable_now": true,
         "capture_window_kst": "08:00-08:50"
+      },
+      "krx_pre_open_expected": {
+        "market": "KRX",
+        "session": "pre_open_expected",
+        "price": 267000.0,
+        "currency": "KRW",
+        "available": true,
+        "error": null,
+        "source": "KIS Open API 주식현재가 호가/예상체결 (J)",
+        "source_kind": "official_kis_api",
+        "change": 11500.0,
+        "change_pct": 4.5,
+        "expected_volume": 161712,
+        "market_operation_code": "311",
+        "observed_at": "2026-09-07T08:54:41.709301+09:00",
+        "timezone": "Asia/Seoul",
+        "session_active": true,
+        "usable_now": true,
+        "capture_window_kst": "08:30-09:00"
       }
     },
     "snapshot_date_kst": "2026-09-07",
@@ -3348,9 +3367,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1788738576,
+  "generated_at_epoch": 1788738886,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1788738576",
-  "updated_at": "2026-09-07 08:49:36 KST",
-  "updated_at_utc": "2026-09-06T23:49:36.099842+00:00"
+  "cache_bust_hint": "1788738886",
+  "updated_at": "2026-09-07 08:54:46 KST",
+  "updated_at_utc": "2026-09-06T23:54:46.273847+00:00"
 }
