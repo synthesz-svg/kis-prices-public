@@ -101,7 +101,7 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-09-06T13:48:06.147329+09:00",
+    "queried_at": "2026-09-06T13:53:13.123603+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
@@ -118,7 +118,7 @@
         "change_pct": 2.8,
         "volume": 7397798,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-06T13:48:06.147329+09:00",
+        "observed_at": "2026-09-06T13:53:13.123603+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "session_phase": "closed",
@@ -137,7 +137,7 @@
         "change_pct": 2.8,
         "volume": 21429660,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-06T13:48:06.147329+09:00",
+        "observed_at": "2026-09-06T13:53:13.123603+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -155,7 +155,7 @@
         "change_pct": 2.2,
         "expected_volume": 1533513,
         "market_operation_code": "112",
-        "observed_at": "2026-09-06T13:48:06.147329+09:00",
+        "observed_at": "2026-09-06T13:53:13.123603+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-09-06T13:48:06.147329+09:00",
+        "observed_at": "2026-09-06T13:53:13.123603+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -3332,9 +3332,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1788670090,
+  "generated_at_epoch": 1788670397,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1788670090",
-  "updated_at": "2026-09-06 13:48:10 KST",
-  "updated_at_utc": "2026-09-06T04:48:10.794855+00:00"
+  "cache_bust_hint": "1788670397",
+  "updated_at": "2026-09-06 13:53:17 KST",
+  "updated_at_utc": "2026-09-06T04:53:17.709880+00:00"
 }
