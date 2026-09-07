@@ -101,7 +101,7 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-09-07T15:23:46.122069+09:00",
+    "queried_at": "2026-09-07T15:28:53.496202+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
@@ -118,7 +118,7 @@
         "change_pct": 5.28,
         "volume": 8986132,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-07T15:23:46.122069+09:00",
+        "observed_at": "2026-09-07T15:28:53.496202+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "session_phase": "closed",
@@ -137,7 +137,7 @@
         "change_pct": 5.28,
         "volume": 24955856,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-07T15:23:46.122069+09:00",
+        "observed_at": "2026-09-07T15:28:53.496202+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "usable_now": true
@@ -153,9 +153,9 @@
         "source_kind": "official_kis_api",
         "change": 14000.0,
         "change_pct": 5.48,
-        "expected_volume": 1364200,
+        "expected_volume": 1884466,
         "market_operation_code": "121",
-        "observed_at": "2026-09-07T15:23:46.122069+09:00",
+        "observed_at": "2026-09-07T15:28:53.496202+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-09-07T15:23:46.122069+09:00",
+        "observed_at": "2026-09-07T15:28:53.496202+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -3372,9 +3372,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1788762230,
+  "generated_at_epoch": 1788762537,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1788762230",
-  "updated_at": "2026-09-07 15:23:50 KST",
-  "updated_at_utc": "2026-09-07T06:23:50.711656+00:00"
+  "cache_bust_hint": "1788762537",
+  "updated_at": "2026-09-07 15:28:57 KST",
+  "updated_at_utc": "2026-09-07T06:28:57.931547+00:00"
 }
