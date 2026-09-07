@@ -101,7 +101,7 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-09-08T04:17:01.290454+09:00",
+    "queried_at": "2026-09-08T04:22:08.265028+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
@@ -118,7 +118,7 @@
         "change_pct": 5.48,
         "volume": 11834911,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-08T04:17:01.290454+09:00",
+        "observed_at": "2026-09-08T04:22:08.265028+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "session_phase": "closed",
@@ -137,7 +137,7 @@
         "change_pct": 5.48,
         "volume": 30148927,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-08T04:17:01.290454+09:00",
+        "observed_at": "2026-09-08T04:22:08.265028+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -155,7 +155,7 @@
         "change_pct": 5.68,
         "expected_volume": 2259383,
         "market_operation_code": "112",
-        "observed_at": "2026-09-08T04:17:01.290454+09:00",
+        "observed_at": "2026-09-08T04:22:08.265028+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-09-08T04:17:01.290454+09:00",
+        "observed_at": "2026-09-08T04:22:08.265028+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -193,12 +193,7 @@
   "samsung_flow": {
     "symbol": "005930",
     "name": "삼성전자 수급",
-    "intraday_estimate": {
-      "estimate_slot": "5",
-      "foreign_net_qty": 1534000,
-      "institution_net_qty": 1290000,
-      "total_net_qty": 2824000
-    },
+    "intraday_estimate": null,
     "intraday_estimate_error": null,
     "foreign_broker": {
       "foreign_broker_buy_qty": 720594,
@@ -3332,9 +3327,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1788808625,
+  "generated_at_epoch": 1788808932,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1788808625",
-  "updated_at": "2026-09-08 04:17:05 KST",
-  "updated_at_utc": "2026-09-07T19:17:05.893064+00:00"
+  "cache_bust_hint": "1788808932",
+  "updated_at": "2026-09-08 04:22:12 KST",
+  "updated_at_utc": "2026-09-07T19:22:12.869273+00:00"
 }
