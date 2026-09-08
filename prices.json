@@ -2,7 +2,7 @@
   "samsung": {
     "symbol": "005930",
     "name": "삼성전자",
-    "price": 272000.0,
+    "price": 272500.0,
     "currency": "KRW",
     "error": null,
     "source": "KIS Open API"
@@ -101,24 +101,24 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-09-08T14:51:40.742043+09:00",
+    "queried_at": "2026-09-08T14:56:47.753208+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
       "nxt": {
         "market": "NXT",
         "session": "NXT extended/regular",
-        "price": 272000.0,
+        "price": 272500.0,
         "currency": "KRW",
         "available": true,
         "error": null,
         "source": "KIS Open API 주식현재가 시세2 (NX)",
         "source_kind": "official_kis_api",
-        "change": 2000.0,
-        "change_pct": 0.74,
-        "volume": 10254991,
+        "change": 2500.0,
+        "change_pct": 0.93,
+        "volume": 10428072,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-08T14:51:40.742043+09:00",
+        "observed_at": "2026-09-08T14:56:47.753208+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "session_phase": "main_market",
@@ -127,17 +127,17 @@
       "integrated": {
         "market": "KRX+NXT",
         "session": "integrated",
-        "price": 272000.0,
+        "price": 272250.0,
         "currency": "KRW",
         "available": true,
         "error": null,
         "source": "KIS Open API 주식현재가 시세2 (UN)",
         "source_kind": "official_kis_api",
-        "change": 2000.0,
-        "change_pct": 0.74,
-        "volume": 29011401,
+        "change": 2250.0,
+        "change_pct": 0.83,
+        "volume": 29626759,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-08T14:51:40.742043+09:00",
+        "observed_at": "2026-09-08T14:56:47.753208+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "usable_now": true
@@ -155,7 +155,7 @@
         "change_pct": 0.74,
         "expected_volume": 200607,
         "market_operation_code": "112",
-        "observed_at": "2026-09-08T14:51:40.742043+09:00",
+        "observed_at": "2026-09-08T14:56:47.753208+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-09-08T14:51:40.742043+09:00",
+        "observed_at": "2026-09-08T14:56:47.753208+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -241,12 +241,12 @@
     },
     "intraday_estimate_error": null,
     "foreign_broker": {
-      "foreign_broker_buy_qty": 2181821,
+      "foreign_broker_buy_qty": 2245521,
       "foreign_broker_sell_qty": 188937,
-      "foreign_broker_net_qty": 1992884,
-      "foreign_buy_ratio_pct": 11.63,
-      "foreign_sell_ratio_pct": 1.01,
-      "accumulated_volume": 18757257
+      "foreign_broker_net_qty": 2056584,
+      "foreign_buy_ratio_pct": 11.7,
+      "foreign_sell_ratio_pct": 0.98,
+      "accumulated_volume": 19199178
     },
     "member_error": null,
     "daily_investor_raw": {
@@ -3372,9 +3372,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1788846705,
+  "generated_at_epoch": 1788847012,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1788846705",
-  "updated_at": "2026-09-08 14:51:45 KST",
-  "updated_at_utc": "2026-09-08T05:51:45.359436+00:00"
+  "cache_bust_hint": "1788847012",
+  "updated_at": "2026-09-08 14:56:52 KST",
+  "updated_at_utc": "2026-09-08T05:56:52.335409+00:00"
 }
