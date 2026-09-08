@@ -2,7 +2,7 @@
   "samsung": {
     "symbol": "005930",
     "name": "삼성전자",
-    "price": 275750.0,
+    "price": 274500.0,
     "currency": "KRW",
     "error": null,
     "source": "KIS Open API"
@@ -101,24 +101,24 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-09-08T14:26:05.709147+09:00",
+    "queried_at": "2026-09-08T14:31:12.698522+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
       "nxt": {
         "market": "NXT",
         "session": "NXT extended/regular",
-        "price": 275500.0,
+        "price": 274500.0,
         "currency": "KRW",
         "available": true,
         "error": null,
         "source": "KIS Open API 주식현재가 시세2 (NX)",
         "source_kind": "official_kis_api",
-        "change": 5500.0,
-        "change_pct": 2.04,
-        "volume": 9659347,
+        "change": 4500.0,
+        "change_pct": 1.67,
+        "volume": 9734142,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-08T14:26:05.709147+09:00",
+        "observed_at": "2026-09-08T14:31:12.698522+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "session_phase": "main_market",
@@ -127,17 +127,17 @@
       "integrated": {
         "market": "KRX+NXT",
         "session": "integrated",
-        "price": 275500.0,
+        "price": 274500.0,
         "currency": "KRW",
         "available": true,
         "error": null,
         "source": "KIS Open API 주식현재가 시세2 (UN)",
         "source_kind": "official_kis_api",
-        "change": 5500.0,
-        "change_pct": 2.04,
-        "volume": 26887327,
+        "change": 4500.0,
+        "change_pct": 1.67,
+        "volume": 27247968,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-08T14:26:05.709147+09:00",
+        "observed_at": "2026-09-08T14:31:12.698522+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "usable_now": true
@@ -155,7 +155,7 @@
         "change_pct": 0.74,
         "expected_volume": 200607,
         "market_operation_code": "112",
-        "observed_at": "2026-09-08T14:26:05.709147+09:00",
+        "observed_at": "2026-09-08T14:31:12.698522+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-09-08T14:26:05.709147+09:00",
+        "observed_at": "2026-09-08T14:31:12.698522+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -234,19 +234,19 @@
     "symbol": "005930",
     "name": "삼성전자 수급",
     "intraday_estimate": {
-      "estimate_slot": "4",
-      "foreign_net_qty": 2004000,
-      "institution_net_qty": 568000,
-      "total_net_qty": 2572000
+      "estimate_slot": "5",
+      "foreign_net_qty": 1925000,
+      "institution_net_qty": 862000,
+      "total_net_qty": 2787000
     },
     "intraday_estimate_error": null,
     "foreign_broker": {
-      "foreign_broker_buy_qty": 2073616,
+      "foreign_broker_buy_qty": 2098482,
       "foreign_broker_sell_qty": 188937,
-      "foreign_broker_net_qty": 1884679,
-      "foreign_buy_ratio_pct": 12.04,
-      "foreign_sell_ratio_pct": 1.1,
-      "accumulated_volume": 17228557
+      "foreign_broker_net_qty": 1909545,
+      "foreign_buy_ratio_pct": 11.98,
+      "foreign_sell_ratio_pct": 1.08,
+      "accumulated_volume": 17514224
     },
     "member_error": null,
     "daily_investor_raw": {
@@ -3372,9 +3372,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1788845170,
+  "generated_at_epoch": 1788845477,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1788845170",
-  "updated_at": "2026-09-08 14:26:10 KST",
-  "updated_at_utc": "2026-09-08T05:26:10.312294+00:00"
+  "cache_bust_hint": "1788845477",
+  "updated_at": "2026-09-08 14:31:17 KST",
+  "updated_at_utc": "2026-09-08T05:31:17.233894+00:00"
 }
