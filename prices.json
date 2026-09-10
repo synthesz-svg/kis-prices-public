@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 707.88,
+    "price": 707.905,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 147.94,
+    "price": 147.8,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -26,7 +26,7 @@
   "pave": {
     "symbol": "PAVE",
     "name": "PAVE",
-    "price": 53.88,
+    "price": 53.17,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -34,7 +34,7 @@
   "smh": {
     "symbol": "SMH",
     "name": "SMH",
-    "price": 559.25,
+    "price": 560.21,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -42,7 +42,7 @@
   "xlk": {
     "symbol": "XLK",
     "name": "XLK",
-    "price": 185.0248,
+    "price": 185.0,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -50,7 +50,7 @@
   "ivv": {
     "symbol": "IVV",
     "name": "IVV",
-    "price": 761.6385,
+    "price": 761.66,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -101,7 +101,7 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-09-11T08:21:56.496750+09:00",
+    "queried_at": "2026-09-11T08:27:03.749376+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
@@ -116,9 +116,9 @@
         "source_kind": "official_kis_api",
         "change": -9000.0,
         "change_pct": -3.35,
-        "volume": 1497921,
+        "volume": 1570275,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-11T08:21:56.496750+09:00",
+        "observed_at": "2026-09-11T08:27:03.749376+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "session_phase": "pre_market",
@@ -135,9 +135,9 @@
         "source_kind": "official_kis_api",
         "change": -9000.0,
         "change_pct": -3.35,
-        "volume": 1497981,
+        "volume": 1570280,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-11T08:21:56.496750+09:00",
+        "observed_at": "2026-09-11T08:27:03.749376+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "usable_now": true
@@ -155,7 +155,7 @@
         "change_pct": 0.0,
         "expected_volume": 0,
         "market_operation_code": "112",
-        "observed_at": "2026-09-11T08:21:56.496750+09:00",
+        "observed_at": "2026-09-11T08:27:03.749376+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-09-11T08:21:56.496750+09:00",
+        "observed_at": "2026-09-11T08:27:03.749376+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -191,9 +191,9 @@
         "source_kind": "official_kis_api",
         "change": -9000.0,
         "change_pct": -3.35,
-        "volume": 1497921,
+        "volume": 1570275,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-11T08:21:56.496750+09:00",
+        "observed_at": "2026-09-11T08:27:03.749376+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "session_phase": "pre_market",
@@ -3343,14 +3343,14 @@
     "previous_1_week": 47.51,
     "previous_1_month": 64.37,
     "previous_1_year": 57.94,
-    "timestamp": "2026-09-10T23:05:22+00:00",
+    "timestamp": "2026-09-10T23:10:25+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1789082521,
+  "generated_at_epoch": 1789082828,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1789082521",
-  "updated_at": "2026-09-11 08:22:01 KST",
-  "updated_at_utc": "2026-09-10T23:22:01.034412+00:00"
+  "cache_bust_hint": "1789082828",
+  "updated_at": "2026-09-11 08:27:08 KST",
+  "updated_at_utc": "2026-09-10T23:27:08.315146+00:00"
 }
