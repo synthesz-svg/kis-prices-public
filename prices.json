@@ -101,7 +101,7 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-09-16T13:07:15.526480+09:00",
+    "queried_at": "2026-09-16T13:12:22.525895+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
@@ -116,9 +116,9 @@
         "source_kind": "official_kis_api",
         "change": 5000.0,
         "change_pct": 2.01,
-        "volume": 3029065,
+        "volume": 3051632,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-16T13:07:15.526480+09:00",
+        "observed_at": "2026-09-16T13:12:22.525895+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "session_phase": "main_market",
@@ -127,17 +127,17 @@
       "integrated": {
         "market": "KRX+NXT",
         "session": "integrated",
-        "price": 253250.0,
+        "price": 253500.0,
         "currency": "KRW",
         "available": true,
         "error": null,
         "source": "KIS Open API 주식현재가 시세2 (UN)",
         "source_kind": "official_kis_api",
-        "change": 4750.0,
-        "change_pct": 1.91,
-        "volume": 9697586,
+        "change": 5000.0,
+        "change_pct": 2.01,
+        "volume": 9815942,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-16T13:07:15.526480+09:00",
+        "observed_at": "2026-09-16T13:12:22.525895+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "usable_now": true
@@ -155,7 +155,7 @@
         "change_pct": -0.2,
         "expected_volume": 290537,
         "market_operation_code": "112",
-        "observed_at": "2026-09-16T13:07:15.526480+09:00",
+        "observed_at": "2026-09-16T13:12:22.525895+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-09-16T13:07:15.526480+09:00",
+        "observed_at": "2026-09-16T13:12:22.525895+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -234,19 +234,19 @@
     "symbol": "005930",
     "name": "삼성전자 수급",
     "intraday_estimate": {
-      "estimate_slot": "3",
-      "foreign_net_qty": -573000,
-      "institution_net_qty": 259000,
-      "total_net_qty": -314000
+      "estimate_slot": "4",
+      "foreign_net_qty": -720000,
+      "institution_net_qty": 754000,
+      "total_net_qty": 34000
     },
     "intraday_estimate_error": null,
     "foreign_broker": {
       "foreign_broker_buy_qty": 123261,
-      "foreign_broker_sell_qty": 535266,
-      "foreign_broker_net_qty": -412005,
-      "foreign_buy_ratio_pct": 1.85,
-      "foreign_sell_ratio_pct": 8.03,
-      "accumulated_volume": 6668539
+      "foreign_broker_sell_qty": 549335,
+      "foreign_broker_net_qty": -426074,
+      "foreign_buy_ratio_pct": 1.82,
+      "foreign_sell_ratio_pct": 8.12,
+      "accumulated_volume": 6764478
     },
     "member_error": null,
     "daily_investor_raw": {
@@ -3360,21 +3360,21 @@
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
   "fear_greed": {
-    "score": 28.66,
+    "score": 28.46,
     "rating": "fear",
     "rating_ko": "공포",
-    "previous_close": 31.06,
-    "previous_1_week": 39.14,
+    "previous_close": 28.66,
+    "previous_1_week": 38.2,
     "previous_1_month": 64.31,
-    "previous_1_year": 64.46,
-    "timestamp": "2026-09-15T23:59:51+00:00",
+    "previous_1_year": 64.37,
+    "timestamp": "2026-09-16T00:00:00+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1789531640,
+  "generated_at_epoch": 1789531947,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1789531640",
-  "updated_at": "2026-09-16 13:07:20 KST",
-  "updated_at_utc": "2026-09-16T04:07:20.116275+00:00"
+  "cache_bust_hint": "1789531947",
+  "updated_at": "2026-09-16 13:12:27 KST",
+  "updated_at_utc": "2026-09-16T04:12:27.198632+00:00"
 }
