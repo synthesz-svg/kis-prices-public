@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 716.65,
+    "price": 716.4403,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 154.975,
+    "price": 154.925,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -26,7 +26,7 @@
   "pave": {
     "symbol": "PAVE",
     "name": "PAVE",
-    "price": 52.93,
+    "price": 52.925,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -34,7 +34,7 @@
   "smh": {
     "symbol": "SMH",
     "name": "SMH",
-    "price": 561.34,
+    "price": 561.145,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -42,7 +42,7 @@
   "xlk": {
     "symbol": "XLK",
     "name": "XLK",
-    "price": 188.115,
+    "price": 188.025,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -50,7 +50,7 @@
   "ivv": {
     "symbol": "IVV",
     "name": "IVV",
-    "price": 763.94,
+    "price": 763.815,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -66,31 +66,31 @@
   "sox": {
     "symbol": "SOX",
     "name": "필라델피아 반도체지수",
-    "price": 11606.59,
+    "price": 11600.82,
     "currency": "INDEX",
-    "change": 360.48,
-    "change_pct": 3.21,
+    "change": 354.71,
+    "change_pct": 3.15,
     "previous_close": 11246.11,
     "open": 11568.47,
     "high": 11643.88,
     "low": 11534.26,
     "quote_date": "20260918",
-    "quote_time": "024900",
+    "quote_time": "025400",
     "quote_timezone": "Asia/Seoul",
     "source_quote_date": "20260917",
-    "source_quote_time": "134900",
+    "source_quote_time": "135400",
     "source_timezone": "America/New_York",
     "minute_bar": {
       "date": "20260918",
-      "time": "024900",
+      "time": "025400",
       "timezone": "Asia/Seoul",
       "source_date": "20260917",
-      "source_time": "134900",
+      "source_time": "135400",
       "source_timezone": "America/New_York",
-      "price": 11606.59,
-      "open": 11607.89,
-      "high": 11608.12,
-      "low": 11606.06,
+      "price": 11600.82,
+      "open": 11601.73,
+      "high": 11601.93,
+      "low": 11600.79,
       "volume": 0
     },
     "realtime_guaranteed": false,
@@ -101,7 +101,7 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-09-18T02:49:32.911916+09:00",
+    "queried_at": "2026-09-18T02:54:39.876949+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
@@ -118,7 +118,7 @@
         "change_pct": 0.99,
         "volume": 5143844,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-18T02:49:32.911916+09:00",
+        "observed_at": "2026-09-18T02:54:39.876949+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "session_phase": "closed",
@@ -137,7 +137,7 @@
         "change_pct": 0.99,
         "volume": 16971358,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-18T02:49:32.911916+09:00",
+        "observed_at": "2026-09-18T02:54:39.876949+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -155,7 +155,7 @@
         "change_pct": -0.39,
         "expected_volume": 1097831,
         "market_operation_code": "112",
-        "observed_at": "2026-09-18T02:49:32.911916+09:00",
+        "observed_at": "2026-09-18T02:54:39.876949+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-09-18T02:49:32.911916+09:00",
+        "observed_at": "2026-09-18T02:54:39.876949+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -3332,9 +3332,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1789667377,
+  "generated_at_epoch": 1789667684,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1789667377",
-  "updated_at": "2026-09-18 02:49:37 KST",
-  "updated_at_utc": "2026-09-17T17:49:37.441216+00:00"
+  "cache_bust_hint": "1789667684",
+  "updated_at": "2026-09-18 02:54:44 KST",
+  "updated_at_utc": "2026-09-17T17:54:44.525224+00:00"
 }
