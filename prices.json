@@ -2,7 +2,7 @@
   "samsung": {
     "symbol": "005930",
     "name": "삼성전자",
-    "price": 274500.0,
+    "price": 275000.0,
     "currency": "KRW",
     "error": null,
     "source": "KIS Open API"
@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 728.41,
+    "price": 728.4644,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 154.2,
+    "price": 153.9001,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -34,7 +34,7 @@
   "smh": {
     "symbol": "SMH",
     "name": "SMH",
-    "price": 583.01,
+    "price": 583.0125,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -42,7 +42,7 @@
   "xlk": {
     "symbol": "XLK",
     "name": "XLK",
-    "price": 191.7625,
+    "price": 191.857,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -50,7 +50,7 @@
   "ivv": {
     "symbol": "IVV",
     "name": "IVV",
-    "price": 770.4305,
+    "price": 770.31,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -101,28 +101,28 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-09-21T19:58:32.427785+09:00",
+    "queried_at": "2026-09-21T20:03:39.323019+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
       "nxt": {
         "market": "NXT",
         "session": "NXT extended/regular",
-        "price": 274500.0,
+        "price": 275000.0,
         "currency": "KRW",
         "available": true,
         "error": null,
         "source": "KIS Open API 주식현재가 시세2 (NX)",
         "source_kind": "official_kis_api",
-        "change": 13500.0,
-        "change_pct": 5.17,
-        "volume": 11504344,
+        "change": 14000.0,
+        "change_pct": 5.36,
+        "volume": 11653138,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-21T19:58:32.427785+09:00",
+        "observed_at": "2026-09-21T20:03:39.323019+09:00",
         "timezone": "Asia/Seoul",
-        "session_active": true,
-        "session_phase": "after_market",
-        "usable_now": true
+        "session_active": false,
+        "session_phase": "closed",
+        "usable_now": false
       },
       "integrated": {
         "market": "KRX+NXT",
@@ -135,12 +135,12 @@
         "source_kind": "official_kis_api",
         "change": 14000.0,
         "change_pct": 5.36,
-        "volume": 33707472,
+        "volume": 33876717,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-21T19:58:32.427785+09:00",
+        "observed_at": "2026-09-21T20:03:39.323019+09:00",
         "timezone": "Asia/Seoul",
-        "session_active": true,
-        "usable_now": true
+        "session_active": false,
+        "usable_now": false
       },
       "krx_pre_open_expected": {
         "market": "KRX",
@@ -155,7 +155,7 @@
         "change_pct": 4.98,
         "expected_volume": 1473130,
         "market_operation_code": "112",
-        "observed_at": "2026-09-21T19:58:32.427785+09:00",
+        "observed_at": "2026-09-21T20:03:39.323019+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-09-21T19:58:32.427785+09:00",
+        "observed_at": "2026-09-21T20:03:39.323019+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -264,19 +264,19 @@
       "foreign_broker_buy_qty": 3706647,
       "foreign_broker_sell_qty": 71948,
       "foreign_broker_net_qty": 3634699,
-      "foreign_buy_ratio_pct": 16.69,
+      "foreign_buy_ratio_pct": 16.68,
       "foreign_sell_ratio_pct": 0.32,
-      "accumulated_volume": 22203254
+      "accumulated_volume": 22223579
     },
     "member_error": null,
     "daily_investor_raw": {
       "query_date": "20260921",
       "output1": {
-        "stck_prpr": "274500",
-        "prdy_vrss": "13500",
+        "stck_prpr": "275000",
+        "prdy_vrss": "14000",
         "prdy_vrss_sign": "2",
-        "prdy_ctrt": "5.17",
-        "acml_vol": "22203413",
+        "prdy_ctrt": "5.36",
+        "acml_vol": "22223579",
         "prdy_vol": "17489616",
         "rprs_mrkt_kor_name": "KOSPI200"
       },
@@ -287,8 +287,8 @@
           "prdy_vrss": "14000",
           "prdy_vrss_sign": "2",
           "prdy_ctrt": "5.36",
-          "acml_vol": "22203412",
-          "acml_tr_pbmn": "6037585180250",
+          "acml_vol": "22223579",
+          "acml_tr_pbmn": "6043124465250",
           "stck_oprc": "264000",
           "stck_hgpr": "275000",
           "stck_lwpr": "263500",
@@ -3375,7 +3375,7 @@
     },
     "daily_investor_error": null,
     "daily_investor_source": "live",
-    "daily_investor_saved_at": "2026-09-21T19:58:34.197813+09:00",
+    "daily_investor_saved_at": "2026-09-21T20:03:41.108220+09:00",
     "source": "KIS Open API",
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
@@ -3387,14 +3387,14 @@
     "previous_1_week": 31.0,
     "previous_1_month": 54.66,
     "previous_1_year": 66.23,
-    "timestamp": "2026-09-21T10:43:01+00:00",
+    "timestamp": "2026-09-21T10:48:01+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1789988316,
+  "generated_at_epoch": 1789988623,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1789988316",
-  "updated_at": "2026-09-21 19:58:36 KST",
-  "updated_at_utc": "2026-09-21T10:58:36.987497+00:00"
+  "cache_bust_hint": "1789988623",
+  "updated_at": "2026-09-21 20:03:43 KST",
+  "updated_at_utc": "2026-09-21T11:03:43.896374+00:00"
 }
