@@ -101,7 +101,7 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-09-25T13:04:14.687345+09:00",
+    "queried_at": "2026-09-25T13:09:21.537678+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
@@ -118,7 +118,7 @@
         "change_pct": 3.62,
         "volume": 11182305,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-25T13:04:14.687345+09:00",
+        "observed_at": "2026-09-25T13:09:21.537678+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "session_phase": "main_market",
@@ -137,7 +137,7 @@
         "change_pct": 3.62,
         "volume": 32046681,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-25T13:04:14.687345+09:00",
+        "observed_at": "2026-09-25T13:09:21.537678+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "usable_now": true
@@ -155,7 +155,7 @@
         "change_pct": 3.25,
         "expected_volume": 1497751,
         "market_operation_code": "112",
-        "observed_at": "2026-09-25T13:04:14.687345+09:00",
+        "observed_at": "2026-09-25T13:09:21.537678+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-09-25T13:04:14.687345+09:00",
+        "observed_at": "2026-09-25T13:09:21.537678+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -3360,21 +3360,21 @@
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
   "fear_greed": {
-    "score": 36.11,
+    "score": 36.0,
     "rating": "fear",
     "rating_ko": "공포",
-    "previous_close": 34.69,
-    "previous_1_week": 28.29,
-    "previous_1_month": 54.97,
-    "previous_1_year": 54.57,
-    "timestamp": "2026-09-24T23:59:59+00:00",
+    "previous_close": 36.11,
+    "previous_1_week": 30.43,
+    "previous_1_month": 59.6,
+    "previous_1_year": 50.66,
+    "timestamp": "2026-09-25T00:00:00+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1790309059,
+  "generated_at_epoch": 1790309366,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1790309059",
-  "updated_at": "2026-09-25 13:04:19 KST",
-  "updated_at_utc": "2026-09-25T04:04:19.166805+00:00"
+  "cache_bust_hint": "1790309366",
+  "updated_at": "2026-09-25 13:09:26 KST",
+  "updated_at_utc": "2026-09-25T04:09:26.119856+00:00"
 }
