@@ -2,7 +2,7 @@
   "samsung": {
     "symbol": "005930",
     "name": "삼성전자",
-    "price": 275750.0,
+    "price": 275500.0,
     "currency": "KRW",
     "error": null,
     "source": "KIS Open API"
@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 740.3,
+    "price": 737.93,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 149.6091,
+    "price": 149.24,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -34,7 +34,7 @@
   "smh": {
     "symbol": "SMH",
     "name": "SMH",
-    "price": 610.18,
+    "price": 606.9,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -42,7 +42,7 @@
   "xlk": {
     "symbol": "XLK",
     "name": "XLK",
-    "price": 195.15,
+    "price": 194.5,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -101,7 +101,7 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-09-30T09:10:22.934864+09:00",
+    "queried_at": "2026-09-30T09:15:30.722767+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
@@ -116,9 +116,9 @@
         "source_kind": "official_kis_api",
         "change": 3000.0,
         "change_pct": 1.1,
-        "volume": 1493257,
+        "volume": 1563501,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-30T09:10:22.934864+09:00",
+        "observed_at": "2026-09-30T09:15:30.722767+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "session_phase": "main_market",
@@ -135,9 +135,9 @@
         "source_kind": "official_kis_api",
         "change": 3000.0,
         "change_pct": 1.1,
-        "volume": 2591731,
+        "volume": 2863702,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-09-30T09:10:22.934864+09:00",
+        "observed_at": "2026-09-30T09:15:30.722767+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "usable_now": true
@@ -155,7 +155,7 @@
         "change_pct": 0.73,
         "expected_volume": 336897,
         "market_operation_code": "112",
-        "observed_at": "2026-09-30T09:10:22.934864+09:00",
+        "observed_at": "2026-09-30T09:15:30.722767+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-09-30T09:10:22.934864+09:00",
+        "observed_at": "2026-09-30T09:15:30.722767+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -236,12 +236,12 @@
     "intraday_estimate": null,
     "intraday_estimate_error": null,
     "foreign_broker": {
-      "foreign_broker_buy_qty": 95978,
-      "foreign_broker_sell_qty": 420852,
-      "foreign_broker_net_qty": -324874,
-      "foreign_buy_ratio_pct": 8.74,
-      "foreign_sell_ratio_pct": 38.31,
-      "accumulated_volume": 1098492
+      "foreign_broker_buy_qty": 111980,
+      "foreign_broker_sell_qty": 444127,
+      "foreign_broker_net_qty": -332147,
+      "foreign_buy_ratio_pct": 8.61,
+      "foreign_sell_ratio_pct": 34.16,
+      "accumulated_volume": 1300319
     },
     "member_error": null,
     "daily_investor_raw": {
@@ -3362,14 +3362,14 @@
     "previous_1_week": 35.03,
     "previous_1_month": 53.74,
     "previous_1_year": 50.97,
-    "timestamp": "2026-09-29T23:54:07+00:00",
+    "timestamp": "2026-09-29T23:59:11+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1790727028,
+  "generated_at_epoch": 1790727335,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1790727028",
-  "updated_at": "2026-09-30 09:10:28 KST",
-  "updated_at_utc": "2026-09-30T00:10:28.353590+00:00"
+  "cache_bust_hint": "1790727335",
+  "updated_at": "2026-09-30 09:15:35 KST",
+  "updated_at_utc": "2026-09-30T00:15:35.859120+00:00"
 }
