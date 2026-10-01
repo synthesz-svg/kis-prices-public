@@ -2,7 +2,7 @@
   "samsung": {
     "symbol": "005930",
     "name": "삼성전자",
-    "price": 274500.0,
+    "price": 273500.0,
     "currency": "KRW",
     "error": null,
     "source": "KIS Open API"
@@ -101,24 +101,24 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-10-01T13:03:18.532270+09:00",
+    "queried_at": "2026-10-01T13:08:25.337273+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
       "nxt": {
         "market": "NXT",
         "session": "NXT extended/regular",
-        "price": 274500.0,
+        "price": 274000.0,
         "currency": "KRW",
         "available": true,
         "error": null,
         "source": "KIS Open API 주식현재가 시세2 (NX)",
         "source_kind": "official_kis_api",
-        "change": 6000.0,
-        "change_pct": 2.23,
-        "volume": 3837613,
+        "change": 5500.0,
+        "change_pct": 2.05,
+        "volume": 3946456,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-10-01T13:03:18.532270+09:00",
+        "observed_at": "2026-10-01T13:08:25.337273+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "session_phase": "main_market",
@@ -127,17 +127,17 @@
       "integrated": {
         "market": "KRX+NXT",
         "session": "integrated",
-        "price": 274500.0,
+        "price": 273500.0,
         "currency": "KRW",
         "available": true,
         "error": null,
         "source": "KIS Open API 주식현재가 시세2 (UN)",
         "source_kind": "official_kis_api",
-        "change": 6000.0,
-        "change_pct": 2.23,
-        "volume": 11557468,
+        "change": 5000.0,
+        "change_pct": 1.86,
+        "volume": 11842279,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-10-01T13:03:18.532270+09:00",
+        "observed_at": "2026-10-01T13:08:25.337273+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "usable_now": true
@@ -155,7 +155,7 @@
         "change_pct": -0.74,
         "expected_volume": 355061,
         "market_operation_code": "112",
-        "observed_at": "2026-10-01T13:03:18.532270+09:00",
+        "observed_at": "2026-10-01T13:08:25.337273+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-10-01T13:03:18.532270+09:00",
+        "observed_at": "2026-10-01T13:08:25.337273+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -244,9 +244,9 @@
       "foreign_broker_buy_qty": 37145,
       "foreign_broker_sell_qty": 176178,
       "foreign_broker_net_qty": -139033,
-      "foreign_buy_ratio_pct": 0.48,
-      "foreign_sell_ratio_pct": 2.28,
-      "accumulated_volume": 7719765
+      "foreign_buy_ratio_pct": 0.47,
+      "foreign_sell_ratio_pct": 2.23,
+      "accumulated_volume": 7895807
     },
     "member_error": null,
     "daily_investor_raw": {
@@ -3360,21 +3360,21 @@
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
   "fear_greed": {
-    "score": 30.83,
+    "score": 30.71,
     "rating": "fear",
     "rating_ko": "공포",
-    "previous_close": 31.63,
-    "previous_1_week": 32.54,
-    "previous_1_month": 53.74,
-    "previous_1_year": 51.4,
-    "timestamp": "2026-09-30T23:59:50+00:00",
+    "previous_close": 30.83,
+    "previous_1_week": 35.74,
+    "previous_1_month": 44.86,
+    "previous_1_year": 52.49,
+    "timestamp": "2026-10-01T00:00:00+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1790827403,
+  "generated_at_epoch": 1790827710,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1790827403",
-  "updated_at": "2026-10-01 13:03:23 KST",
-  "updated_at_utc": "2026-10-01T04:03:23.111918+00:00"
+  "cache_bust_hint": "1790827710",
+  "updated_at": "2026-10-01 13:08:30 KST",
+  "updated_at_utc": "2026-10-01T04:08:30.539569+00:00"
 }
