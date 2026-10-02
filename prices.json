@@ -2,7 +2,7 @@
   "samsung": {
     "symbol": "005930",
     "name": "삼성전자",
-    "price": 275750.0,
+    "price": 276000.0,
     "currency": "KRW",
     "error": null,
     "source": "KIS Open API"
@@ -101,24 +101,24 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-10-02T13:08:29.537294+09:00",
+    "queried_at": "2026-10-02T13:13:37.675470+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
       "nxt": {
         "market": "NXT",
         "session": "NXT extended/regular",
-        "price": 276000.0,
+        "price": 275750.0,
         "currency": "KRW",
         "available": true,
         "error": null,
         "source": "KIS Open API 주식현재가 시세2 (NX)",
         "source_kind": "official_kis_api",
-        "change": 0.0,
-        "change_pct": 0.0,
-        "volume": 3654558,
+        "change": -250.0,
+        "change_pct": -0.09,
+        "volume": 3667539,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-10-02T13:08:29.537294+09:00",
+        "observed_at": "2026-10-02T13:13:37.675470+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "session_phase": "main_market",
@@ -135,9 +135,9 @@
         "source_kind": "official_kis_api",
         "change": -250.0,
         "change_pct": -0.09,
-        "volume": 10615986,
+        "volume": 10770871,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-10-02T13:08:29.537294+09:00",
+        "observed_at": "2026-10-02T13:13:37.675470+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "usable_now": true
@@ -155,7 +155,7 @@
         "change_pct": -0.91,
         "expected_volume": 379025,
         "market_operation_code": "112",
-        "observed_at": "2026-10-02T13:08:29.537294+09:00",
+        "observed_at": "2026-10-02T13:13:37.675470+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-10-02T13:08:29.537294+09:00",
+        "observed_at": "2026-10-02T13:13:37.675470+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -234,19 +234,19 @@
     "symbol": "005930",
     "name": "삼성전자 수급",
     "intraday_estimate": {
-      "estimate_slot": "3",
-      "foreign_net_qty": -193000,
-      "institution_net_qty": -39000,
-      "total_net_qty": -232000
+      "estimate_slot": "4",
+      "foreign_net_qty": -387000,
+      "institution_net_qty": 133000,
+      "total_net_qty": -254000
     },
     "intraday_estimate_error": null,
     "foreign_broker": {
       "foreign_broker_buy_qty": 456930,
       "foreign_broker_sell_qty": 389403,
       "foreign_broker_net_qty": 67527,
-      "foreign_buy_ratio_pct": 6.56,
-      "foreign_sell_ratio_pct": 5.59,
-      "accumulated_volume": 6961436
+      "foreign_buy_ratio_pct": 6.43,
+      "foreign_sell_ratio_pct": 5.48,
+      "accumulated_volume": 7103374
     },
     "member_error": null,
     "daily_investor_raw": {
@@ -3360,21 +3360,21 @@
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
   "fear_greed": {
-    "score": 28.09,
+    "score": 28.03,
     "rating": "fear",
     "rating_ko": "공포",
-    "previous_close": 30.83,
-    "previous_1_week": 35.74,
-    "previous_1_month": 44.86,
-    "previous_1_year": 52.49,
-    "timestamp": "2026-10-01T23:59:56+00:00",
+    "previous_close": 28.09,
+    "previous_1_week": 36.94,
+    "previous_1_month": 46.06,
+    "previous_1_year": 54.54,
+    "timestamp": "2026-10-02T00:00:00+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1790914115,
+  "generated_at_epoch": 1790914422,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1790914115",
-  "updated_at": "2026-10-02 13:08:35 KST",
-  "updated_at_utc": "2026-10-02T04:08:35.277004+00:00"
+  "cache_bust_hint": "1790914422",
+  "updated_at": "2026-10-02 13:13:42 KST",
+  "updated_at_utc": "2026-10-02T04:13:42.828321+00:00"
 }
