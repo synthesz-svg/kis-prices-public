@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 744.15,
+    "price": 744.04,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 162.43,
+    "price": 162.4401,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -34,7 +34,7 @@
   "smh": {
     "symbol": "SMH",
     "name": "SMH",
-    "price": 587.0,
+    "price": 587.5,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -42,7 +42,7 @@
   "xlk": {
     "symbol": "XLK",
     "name": "XLK",
-    "price": 195.6,
+    "price": 195.67,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -50,7 +50,7 @@
   "ivv": {
     "symbol": "IVV",
     "name": "IVV",
-    "price": 780.8961,
+    "price": 780.9017,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -101,7 +101,7 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-10-13T08:49:05.731369+09:00",
+    "queried_at": "2026-10-13T08:54:12.282234+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
@@ -116,13 +116,13 @@
         "source_kind": "official_kis_api",
         "change": -8000.0,
         "change_pct": -3.19,
-        "volume": 3302115,
+        "volume": 3332017,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-10-13T08:49:05.731369+09:00",
+        "observed_at": "2026-10-13T08:54:12.282234+09:00",
         "timezone": "Asia/Seoul",
-        "session_active": true,
-        "session_phase": "pre_market",
-        "usable_now": true
+        "session_active": false,
+        "session_phase": "closed",
+        "usable_now": false
       },
       "integrated": {
         "market": "KRX+NXT",
@@ -135,30 +135,30 @@
         "source_kind": "official_kis_api",
         "change": -8000.0,
         "change_pct": -3.19,
-        "volume": 3302291,
+        "volume": 3332178,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-10-13T08:49:05.731369+09:00",
+        "observed_at": "2026-10-13T08:54:12.282234+09:00",
         "timezone": "Asia/Seoul",
-        "session_active": true,
-        "usable_now": true
+        "session_active": false,
+        "usable_now": false
       },
       "krx_pre_open_expected": {
         "market": "KRX",
         "session": "pre_open_expected",
-        "price": null,
+        "price": 240000.0,
         "currency": "KRW",
-        "available": false,
-        "error": "KIS 응답은 정상이지만 해당 시장·세션의 유효한 가격이 없습니다.",
+        "available": true,
+        "error": null,
         "source": "KIS Open API 주식현재가 호가/예상체결 (J)",
         "source_kind": "official_kis_api",
-        "change": 0.0,
-        "change_pct": 0.0,
-        "expected_volume": 0,
-        "market_operation_code": " ",
-        "observed_at": "2026-10-13T08:49:05.731369+09:00",
+        "change": -10500.0,
+        "change_pct": -4.19,
+        "expected_volume": 300964,
+        "market_operation_code": "311",
+        "observed_at": "2026-10-13T08:54:12.282234+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
-        "usable_now": false
+        "usable_now": true
       },
       "krx_after_hours_single_price": {
         "market": "KRX",
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-10-13T08:49:05.731369+09:00",
+        "observed_at": "2026-10-13T08:54:12.282234+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -199,6 +199,25 @@
         "session_phase": "pre_market",
         "usable_now": true,
         "capture_window_kst": "08:00-08:50"
+      },
+      "krx_pre_open_expected": {
+        "market": "KRX",
+        "session": "pre_open_expected",
+        "price": 240000.0,
+        "currency": "KRW",
+        "available": true,
+        "error": null,
+        "source": "KIS Open API 주식현재가 호가/예상체결 (J)",
+        "source_kind": "official_kis_api",
+        "change": -10500.0,
+        "change_pct": -4.19,
+        "expected_volume": 300964,
+        "market_operation_code": "311",
+        "observed_at": "2026-10-13T08:54:12.282234+09:00",
+        "timezone": "Asia/Seoul",
+        "session_active": true,
+        "usable_now": true,
+        "capture_window_kst": "08:30-09:00"
       }
     },
     "snapshot_date_kst": "2026-10-13",
@@ -3343,14 +3362,14 @@
     "previous_1_week": 43.71,
     "previous_1_month": 32.69,
     "previous_1_year": 30.14,
-    "timestamp": "2026-10-12T23:30:22+00:00",
+    "timestamp": "2026-10-12T23:35:24+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1791848950,
+  "generated_at_epoch": 1791849256,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1791848950",
-  "updated_at": "2026-10-13 08:49:10 KST",
-  "updated_at_utc": "2026-10-12T23:49:10.218323+00:00"
+  "cache_bust_hint": "1791849256",
+  "updated_at": "2026-10-13 08:54:16 KST",
+  "updated_at_utc": "2026-10-12T23:54:16.827655+00:00"
 }
