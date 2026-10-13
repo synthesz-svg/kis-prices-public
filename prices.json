@@ -2,7 +2,7 @@
   "samsung": {
     "symbol": "005930",
     "name": "삼성전자",
-    "price": 234000.0,
+    "price": 232000.0,
     "currency": "KRW",
     "error": null,
     "source": "KIS Open API"
@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 743.1816,
+    "price": 743.2377,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 156.4181,
+    "price": 156.52,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -34,7 +34,7 @@
   "smh": {
     "symbol": "SMH",
     "name": "SMH",
-    "price": 588.19,
+    "price": 588.65,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -42,7 +42,7 @@
   "xlk": {
     "symbol": "XLK",
     "name": "XLK",
-    "price": 196.1,
+    "price": 196.17,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -50,7 +50,7 @@
   "ivv": {
     "symbol": "IVV",
     "name": "IVV",
-    "price": 781.22,
+    "price": 781.37,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -101,7 +101,7 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-10-14T05:25:19.820388+09:00",
+    "queried_at": "2026-10-14T05:30:26.878583+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
@@ -118,7 +118,7 @@
         "change_pct": -6.79,
         "volume": 17944104,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-10-14T05:25:19.820388+09:00",
+        "observed_at": "2026-10-14T05:30:26.878583+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "session_phase": "closed",
@@ -135,9 +135,9 @@
         "source_kind": "official_kis_api",
         "change": -16500.0,
         "change_pct": -6.59,
-        "volume": 44735017,
+        "volume": 26790913,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-10-14T05:25:19.820388+09:00",
+        "observed_at": "2026-10-14T05:30:26.878583+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -154,8 +154,8 @@
         "change": -18500.0,
         "change_pct": -7.39,
         "expected_volume": 2060007,
-        "market_operation_code": "112",
-        "observed_at": "2026-10-14T05:25:19.820388+09:00",
+        "market_operation_code": "",
+        "observed_at": "2026-10-14T05:30:26.878583+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-10-14T05:25:19.820388+09:00",
+        "observed_at": "2026-10-14T05:30:26.878583+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -196,11 +196,11 @@
     "intraday_estimate": null,
     "intraday_estimate_error": null,
     "foreign_broker": {
-      "foreign_broker_buy_qty": 84783,
-      "foreign_broker_sell_qty": 5515455,
-      "foreign_broker_net_qty": -5430672,
-      "foreign_buy_ratio_pct": 0.32,
-      "foreign_sell_ratio_pct": 20.59,
+      "foreign_broker_buy_qty": 0,
+      "foreign_broker_sell_qty": 0,
+      "foreign_broker_net_qty": 0,
+      "foreign_buy_ratio_pct": 0.0,
+      "foreign_sell_ratio_pct": 0.0,
       "accumulated_volume": 26790913
     },
     "member_error": null,
@@ -3322,14 +3322,14 @@
     "previous_1_week": 46.8,
     "previous_1_month": 32.69,
     "previous_1_year": 29.74,
-    "timestamp": "2026-10-13T20:12:23+00:00",
+    "timestamp": "2026-10-13T20:17:18+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1791923124,
+  "generated_at_epoch": 1791923431,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1791923124",
-  "updated_at": "2026-10-14 05:25:24 KST",
-  "updated_at_utc": "2026-10-13T20:25:24.491866+00:00"
+  "cache_bust_hint": "1791923431",
+  "updated_at": "2026-10-14 05:30:31 KST",
+  "updated_at_utc": "2026-10-13T20:30:31.540752+00:00"
 }
