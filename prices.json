@@ -101,7 +101,7 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-10-14T15:46:38.270762+09:00",
+    "queried_at": "2026-10-14T15:51:45.255123+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
@@ -116,9 +116,9 @@
         "source_kind": "official_kis_api",
         "change": 1000.0,
         "change_pct": 0.43,
-        "volume": 8641080,
+        "volume": 8671203,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-10-14T15:46:38.270762+09:00",
+        "observed_at": "2026-10-14T15:51:45.255123+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "session_phase": "after_market",
@@ -135,9 +135,9 @@
         "source_kind": "official_kis_api",
         "change": 1000.0,
         "change_pct": 0.43,
-        "volume": 25502396,
+        "volume": 25532539,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-10-14T15:46:38.270762+09:00",
+        "observed_at": "2026-10-14T15:51:45.255123+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "usable_now": true
@@ -155,7 +155,7 @@
         "change_pct": 0.0,
         "expected_volume": 2583371,
         "market_operation_code": "112",
-        "observed_at": "2026-10-14T15:46:38.270762+09:00",
+        "observed_at": "2026-10-14T15:51:45.255123+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-10-14T15:46:38.270762+09:00",
+        "observed_at": "2026-10-14T15:51:45.255123+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -230,9 +230,9 @@
         "source_kind": "official_kis_api",
         "change": 1000.0,
         "change_pct": 0.43,
-        "volume": 8641080,
+        "volume": 8671203,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-10-14T15:46:38.270762+09:00",
+        "observed_at": "2026-10-14T15:51:45.255123+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "session_phase": "after_market",
@@ -266,7 +266,7 @@
       "foreign_broker_net_qty": -1375018,
       "foreign_buy_ratio_pct": 4.23,
       "foreign_sell_ratio_pct": 12.39,
-      "accumulated_volume": 16861315
+      "accumulated_volume": 16861335
     },
     "member_error": null,
     "daily_investor_raw": {
@@ -276,7 +276,7 @@
         "prdy_vrss": "0",
         "prdy_vrss_sign": "3",
         "prdy_ctrt": "0.00",
-        "acml_vol": "16861315",
+        "acml_vol": "16861335",
         "prdy_vol": "26790912",
         "rprs_mrkt_kor_name": "KOSPI200"
       },
@@ -287,8 +287,8 @@
           "prdy_vrss": "0",
           "prdy_vrss_sign": "3",
           "prdy_ctrt": "0.00",
-          "acml_vol": "16861315",
-          "acml_tr_pbmn": "3975407306250",
+          "acml_vol": "16861335",
+          "acml_tr_pbmn": "3975411946250",
           "stck_oprc": "233500",
           "stck_hgpr": "241500",
           "stck_lwpr": "230000",
@@ -3375,7 +3375,7 @@
     },
     "daily_investor_error": null,
     "daily_investor_source": "live",
-    "daily_investor_saved_at": "2026-10-14T15:46:40.084127+09:00",
+    "daily_investor_saved_at": "2026-10-14T15:51:47.067157+09:00",
     "source": "KIS Open API",
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
@@ -3392,9 +3392,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1791960402,
+  "generated_at_epoch": 1791960710,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1791960402",
-  "updated_at": "2026-10-14 15:46:42 KST",
-  "updated_at_utc": "2026-10-14T06:46:42.806067+00:00"
+  "cache_bust_hint": "1791960710",
+  "updated_at": "2026-10-14 15:51:50 KST",
+  "updated_at_utc": "2026-10-14T06:51:50.049924+00:00"
 }
