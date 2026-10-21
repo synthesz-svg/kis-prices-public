@@ -2,7 +2,7 @@
   "samsung": {
     "symbol": "005930",
     "name": "삼성전자",
-    "price": 220500.0,
+    "price": 221000.0,
     "currency": "KRW",
     "error": null,
     "source": "KIS Open API"
@@ -101,7 +101,7 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-10-21T09:13:43.806712+09:00",
+    "queried_at": "2026-10-21T09:18:51.872232+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
@@ -116,9 +116,9 @@
         "source_kind": "official_kis_api",
         "change": 9000.0,
         "change_pct": 4.26,
-        "volume": 3627160,
+        "volume": 3850830,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-10-21T09:13:43.806712+09:00",
+        "observed_at": "2026-10-21T09:18:51.872232+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "session_phase": "main_market",
@@ -135,9 +135,9 @@
         "source_kind": "official_kis_api",
         "change": 9000.0,
         "change_pct": 4.26,
-        "volume": 5598033,
+        "volume": 6221885,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-10-21T09:13:43.806712+09:00",
+        "observed_at": "2026-10-21T09:18:51.872232+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "usable_now": true
@@ -155,7 +155,7 @@
         "change_pct": 2.6,
         "expected_volume": 517086,
         "market_operation_code": "112",
-        "observed_at": "2026-10-21T09:13:43.806712+09:00",
+        "observed_at": "2026-10-21T09:18:51.872232+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-10-21T09:13:43.806712+09:00",
+        "observed_at": "2026-10-21T09:18:51.872232+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -233,15 +233,20 @@
   "samsung_flow": {
     "symbol": "005930",
     "name": "삼성전자 수급",
-    "intraday_estimate": null,
+    "intraday_estimate": {
+      "estimate_slot": "1",
+      "foreign_net_qty": 18000,
+      "institution_net_qty": 0,
+      "total_net_qty": 18000
+    },
     "intraday_estimate_error": null,
     "foreign_broker": {
-      "foreign_broker_buy_qty": 456319,
-      "foreign_broker_sell_qty": 807945,
-      "foreign_broker_net_qty": -351626,
-      "foreign_buy_ratio_pct": 23.15,
-      "foreign_sell_ratio_pct": 40.99,
-      "accumulated_volume": 1970930
+      "foreign_broker_buy_qty": 478611,
+      "foreign_broker_sell_qty": 867986,
+      "foreign_broker_net_qty": -389375,
+      "foreign_buy_ratio_pct": 20.19,
+      "foreign_sell_ratio_pct": 36.61,
+      "accumulated_volume": 2370956
     },
     "member_error": null,
     "daily_investor_raw": {
@@ -3362,14 +3367,14 @@
     "previous_1_week": 44.11,
     "previous_1_month": 30.43,
     "previous_1_year": 29.86,
-    "timestamp": "2026-10-20T23:55:00+00:00",
+    "timestamp": "2026-10-20T23:59:41+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1792541629,
+  "generated_at_epoch": 1792541936,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1792541629",
-  "updated_at": "2026-10-21 09:13:49 KST",
-  "updated_at_utc": "2026-10-21T00:13:49.147869+00:00"
+  "cache_bust_hint": "1792541936",
+  "updated_at": "2026-10-21 09:18:56 KST",
+  "updated_at_utc": "2026-10-21T00:18:56.392355+00:00"
 }
