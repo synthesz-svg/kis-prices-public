@@ -10,7 +10,7 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": 704.0188,
+    "price": 703.1036,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -18,7 +18,7 @@
   "spcx": {
     "symbol": "SPCX",
     "name": "SPCX",
-    "price": 145.45,
+    "price": 145.02,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -34,7 +34,7 @@
   "smh": {
     "symbol": "SMH",
     "name": "SMH",
-    "price": 521.9816,
+    "price": 520.5,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -42,7 +42,7 @@
   "xlk": {
     "symbol": "XLK",
     "name": "XLK",
-    "price": 182.2,
+    "price": 181.8,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -50,7 +50,7 @@
   "ivv": {
     "symbol": "IVV",
     "name": "IVV",
-    "price": 767.44,
+    "price": 767.2494,
     "currency": "USD",
     "error": null,
     "source": "KIS Open API"
@@ -101,7 +101,7 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-10-23T05:44:47.838414+09:00",
+    "queried_at": "2026-10-23T05:49:55.612526+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
@@ -118,7 +118,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-10-23T05:44:47.838414+09:00",
+        "observed_at": "2026-10-23T05:49:55.612526+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "session_phase": "closed",
@@ -137,7 +137,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-10-23T05:44:47.838414+09:00",
+        "observed_at": "2026-10-23T05:49:55.612526+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -155,7 +155,7 @@
         "change_pct": 0.0,
         "expected_volume": 0,
         "market_operation_code": "",
-        "observed_at": "2026-10-23T05:44:47.838414+09:00",
+        "observed_at": "2026-10-23T05:49:55.612526+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-10-23T05:44:47.838414+09:00",
+        "observed_at": "2026-10-23T05:49:55.612526+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -3322,14 +3322,14 @@
     "previous_1_week": 30.34,
     "previous_1_month": 35.03,
     "previous_1_year": 26.37,
-    "timestamp": "2026-10-22T20:31:48+00:00",
+    "timestamp": "2026-10-22T20:32:12+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1792701892,
+  "generated_at_epoch": 1792702200,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1792701892",
-  "updated_at": "2026-10-23 05:44:52 KST",
-  "updated_at_utc": "2026-10-22T20:44:52.459579+00:00"
+  "cache_bust_hint": "1792702200",
+  "updated_at": "2026-10-23 05:50:00 KST",
+  "updated_at_utc": "2026-10-22T20:50:00.181294+00:00"
 }
