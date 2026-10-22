@@ -101,7 +101,7 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-10-22T16:50:09.018090+09:00",
+    "queried_at": "2026-10-22T16:55:16.307288+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
@@ -116,9 +116,9 @@
         "source_kind": "official_kis_api",
         "change": -10000.0,
         "change_pct": -4.47,
-        "volume": 7995266,
+        "volume": 8009700,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-10-22T16:50:09.018090+09:00",
+        "observed_at": "2026-10-22T16:55:16.307288+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "session_phase": "after_market",
@@ -135,9 +135,9 @@
         "source_kind": "official_kis_api",
         "change": -10000.0,
         "change_pct": -4.47,
-        "volume": 19026287,
+        "volume": 19041869,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-10-22T16:50:09.018090+09:00",
+        "observed_at": "2026-10-22T16:55:16.307288+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "usable_now": true
@@ -155,7 +155,7 @@
         "change_pct": -4.03,
         "expected_volume": 1044058,
         "market_operation_code": "112",
-        "observed_at": "2026-10-22T16:50:09.018090+09:00",
+        "observed_at": "2026-10-22T16:55:16.307288+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-10-22T16:50:09.018090+09:00",
+        "observed_at": "2026-10-22T16:55:16.307288+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "usable_now": false
@@ -230,9 +230,9 @@
         "source_kind": "official_kis_api",
         "change": -10000.0,
         "change_pct": -4.47,
-        "volume": 7995266,
+        "volume": 8009700,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-10-22T16:50:09.018090+09:00",
+        "observed_at": "2026-10-22T16:55:16.307288+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "session_phase": "after_market",
@@ -266,7 +266,7 @@
       "foreign_broker_net_qty": -929226,
       "foreign_buy_ratio_pct": 3.73,
       "foreign_sell_ratio_pct": 12.15,
-      "accumulated_volume": 11031021
+      "accumulated_volume": 11032160
     },
     "member_error": null,
     "daily_investor_raw": {
@@ -276,7 +276,7 @@
         "prdy_vrss": "-10000",
         "prdy_vrss_sign": "5",
         "prdy_ctrt": "-4.47",
-        "acml_vol": "11031021",
+        "acml_vol": "11032160",
         "prdy_vol": "17268762",
         "rprs_mrkt_kor_name": "KOSPI200"
       },
@@ -287,8 +287,8 @@
           "prdy_vrss": "-10000",
           "prdy_vrss_sign": "5",
           "prdy_ctrt": "-4.47",
-          "acml_vol": "11031021",
-          "acml_tr_pbmn": "2399156049500",
+          "acml_vol": "11032160",
+          "acml_tr_pbmn": "2399399359500",
           "stck_oprc": "221500",
           "stck_hgpr": "226000",
           "stck_lwpr": "212000",
@@ -3375,26 +3375,26 @@
     },
     "daily_investor_error": null,
     "daily_investor_source": "live",
-    "daily_investor_saved_at": "2026-10-22T16:50:10.813913+09:00",
+    "daily_investor_saved_at": "2026-10-22T16:55:18.100562+09:00",
     "source": "KIS Open API",
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
   "fear_greed": {
-    "score": 29.22,
+    "score": 29.33,
     "rating": "fear",
     "rating_ko": "공포",
     "previous_close": 31.37,
     "previous_1_week": 30.34,
     "previous_1_month": 35.03,
     "previous_1_year": 26.37,
-    "timestamp": "2026-10-22T07:31:16+00:00",
+    "timestamp": "2026-10-22T07:36:16+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1792655413,
+  "generated_at_epoch": 1792655720,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1792655413",
-  "updated_at": "2026-10-22 16:50:13 KST",
-  "updated_at_utc": "2026-10-22T07:50:13.739244+00:00"
+  "cache_bust_hint": "1792655720",
+  "updated_at": "2026-10-22 16:55:20 KST",
+  "updated_at_utc": "2026-10-22T07:55:20.851828+00:00"
 }
