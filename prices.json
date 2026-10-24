@@ -101,7 +101,7 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-10-24T09:14:57.146622+09:00",
+    "queried_at": "2026-10-24T09:20:04.714807+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
@@ -118,7 +118,7 @@
         "change_pct": -0.47,
         "volume": 10629482,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-10-24T09:14:57.146622+09:00",
+        "observed_at": "2026-10-24T09:20:04.714807+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "session_phase": "closed",
@@ -137,7 +137,7 @@
         "change_pct": -0.47,
         "volume": 26775454,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-10-24T09:14:57.146622+09:00",
+        "observed_at": "2026-10-24T09:20:04.714807+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -155,7 +155,7 @@
         "change_pct": 0.47,
         "expected_volume": 1231707,
         "market_operation_code": "112",
-        "observed_at": "2026-10-24T09:14:57.146622+09:00",
+        "observed_at": "2026-10-24T09:20:04.714807+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-10-24T09:14:57.146622+09:00",
+        "observed_at": "2026-10-24T09:20:04.714807+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -3327,14 +3327,14 @@
     "previous_1_week": 22.07,
     "previous_1_month": 32.54,
     "previous_1_year": 27.57,
-    "timestamp": "2026-10-23T23:54:18+00:00",
+    "timestamp": "2026-10-23T23:59:44+00:00",
     "error": null,
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1792800901,
+  "generated_at_epoch": 1792801209,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1792800901",
-  "updated_at": "2026-10-24 09:15:01 KST",
-  "updated_at_utc": "2026-10-24T00:15:01.797531+00:00"
+  "cache_bust_hint": "1792801209",
+  "updated_at": "2026-10-24 09:20:09 KST",
+  "updated_at_utc": "2026-10-24T00:20:09.295299+00:00"
 }
