@@ -10,9 +10,9 @@
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": null,
+    "price": 690.49,
     "currency": "USD",
-    "error": "QQQ(NAS) 조회 실패: Gateway 라우팅 오류가 발생했습니다.",
+    "error": null,
     "source": "KIS Open API"
   },
   "spcx": {
@@ -26,9 +26,9 @@
   "pave": {
     "symbol": "PAVE",
     "name": "PAVE",
-    "price": null,
+    "price": 53.52,
     "currency": "USD",
-    "error": "PAVE(NAS) 현재가 데이터가 없습니다. / PAVE(AMS) 조회 실패: SESSION FULL / PAVE(NYS) 현재가 데이터가 없습니다.",
+    "error": null,
     "source": "KIS Open API"
   },
   "smh": {
@@ -42,9 +42,9 @@
   "xlk": {
     "symbol": "XLK",
     "name": "XLK",
-    "price": null,
+    "price": 179.51,
     "currency": "USD",
-    "error": "XLK(AMS) 조회 실패: Gateway 라우팅 오류가 발생했습니다. / XLK(NAS) 현재가 데이터가 없습니다. / XLK(NYS) 현재가 데이터가 없습니다.",
+    "error": null,
     "source": "KIS Open API"
   },
   "ivv": {
@@ -101,7 +101,7 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-10-31T13:46:50.962282+09:00",
+    "queried_at": "2026-10-31T13:51:58.105735+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
@@ -118,7 +118,7 @@
         "change_pct": -5.17,
         "volume": 11217660,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-10-31T13:46:50.962282+09:00",
+        "observed_at": "2026-10-31T13:51:58.105735+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "session_phase": "closed",
@@ -137,7 +137,7 @@
         "change_pct": -5.17,
         "volume": 30885735,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-10-31T13:46:50.962282+09:00",
+        "observed_at": "2026-10-31T13:51:58.105735+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -148,14 +148,14 @@
         "price": null,
         "currency": "KRW",
         "available": false,
-        "error": "삼성전자 KRX 예상체결가 조회 실패: 조회 처리 중 오류 발생하였습니다. 재 조회 수행 부탁드립니다.",
+        "error": "삼성전자 KRX 예상체결가 조회 실패: SESSION FULL",
         "source": "KIS Open API 주식현재가 호가/예상체결 (J)",
         "source_kind": "official_kis_api",
         "change": null,
         "change_pct": null,
         "expected_volume": 0,
         "market_operation_code": "",
-        "observed_at": "2026-10-31T13:46:50.962282+09:00",
+        "observed_at": "2026-10-31T13:51:58.105735+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-10-31T13:46:50.962282+09:00",
+        "observed_at": "2026-10-31T13:51:58.105735+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -3332,9 +3332,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1793422015,
+  "generated_at_epoch": 1793422322,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1793422015",
-  "updated_at": "2026-10-31 13:46:55 KST",
-  "updated_at_utc": "2026-10-31T04:46:55.987352+00:00"
+  "cache_bust_hint": "1793422322",
+  "updated_at": "2026-10-31 13:52:02 KST",
+  "updated_at_utc": "2026-10-31T04:52:02.507823+00:00"
 }
