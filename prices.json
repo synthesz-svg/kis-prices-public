@@ -2,17 +2,17 @@
   "samsung": {
     "symbol": "005930",
     "name": "삼성전자",
-    "price": 220500.0,
+    "price": null,
     "currency": "KRW",
-    "error": null,
+    "error": "삼성전자 조회 실패: SESSION FULL",
     "source": "KIS Open API"
   },
   "qqq": {
     "symbol": "QQQ",
     "name": "QQQ",
-    "price": null,
+    "price": 690.49,
     "currency": "USD",
-    "error": "QQQ(NAS) 조회 실패: SESSION FULL",
+    "error": null,
     "source": "KIS Open API"
   },
   "spcx": {
@@ -26,9 +26,9 @@
   "pave": {
     "symbol": "PAVE",
     "name": "PAVE",
-    "price": 53.52,
+    "price": null,
     "currency": "USD",
-    "error": null,
+    "error": "PAVE(NAS) 현재가 데이터가 없습니다. / PAVE(AMS) 조회 실패: SESSION FULL / PAVE(NYS) 현재가 데이터가 없습니다.",
     "source": "KIS Open API"
   },
   "smh": {
@@ -101,7 +101,7 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-10-31T11:43:54.416135+09:00",
+    "queried_at": "2026-10-31T11:49:01.498030+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
@@ -118,7 +118,7 @@
         "change_pct": -5.17,
         "volume": 11217660,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-10-31T11:43:54.416135+09:00",
+        "observed_at": "2026-10-31T11:49:01.498030+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "session_phase": "closed",
@@ -137,7 +137,7 @@
         "change_pct": -5.17,
         "volume": 30885735,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-10-31T11:43:54.416135+09:00",
+        "observed_at": "2026-10-31T11:49:01.498030+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -155,7 +155,7 @@
         "change_pct": -3.02,
         "expected_volume": 2417464,
         "market_operation_code": "112",
-        "observed_at": "2026-10-31T11:43:54.416135+09:00",
+        "observed_at": "2026-10-31T11:49:01.498030+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-10-31T11:43:54.416135+09:00",
+        "observed_at": "2026-10-31T11:49:01.498030+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -193,8 +193,13 @@
   "samsung_flow": {
     "symbol": "005930",
     "name": "삼성전자 수급",
-    "intraday_estimate": null,
-    "intraday_estimate_error": "삼성전자 외인기관 추정수급 조회 실패: SESSION FULL",
+    "intraday_estimate": {
+      "estimate_slot": "5",
+      "foreign_net_qty": 538000,
+      "institution_net_qty": 241000,
+      "total_net_qty": 779000
+    },
+    "intraday_estimate_error": null,
     "foreign_broker": {
       "foreign_broker_buy_qty": 1873500,
       "foreign_broker_sell_qty": 1860177,
@@ -3327,9 +3332,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1793414638,
+  "generated_at_epoch": 1793414946,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1793414638",
-  "updated_at": "2026-10-31 11:43:58 KST",
-  "updated_at_utc": "2026-10-31T02:43:58.703486+00:00"
+  "cache_bust_hint": "1793414946",
+  "updated_at": "2026-10-31 11:49:06 KST",
+  "updated_at_utc": "2026-10-31T02:49:06.166225+00:00"
 }
