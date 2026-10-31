@@ -26,9 +26,9 @@
   "pave": {
     "symbol": "PAVE",
     "name": "PAVE",
-    "price": null,
+    "price": 53.52,
     "currency": "USD",
-    "error": "PAVE(NAS) 현재가 데이터가 없습니다. / PAVE(AMS) 조회 실패: SESSION FULL / PAVE(NYS) 현재가 데이터가 없습니다.",
+    "error": null,
     "source": "KIS Open API"
   },
   "smh": {
@@ -101,7 +101,7 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-10-31T15:19:00.642978+09:00",
+    "queried_at": "2026-10-31T15:24:07.380710+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
@@ -118,7 +118,7 @@
         "change_pct": -5.17,
         "volume": 11217660,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-10-31T15:19:00.642978+09:00",
+        "observed_at": "2026-10-31T15:24:07.380710+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "session_phase": "closed",
@@ -137,7 +137,7 @@
         "change_pct": -5.17,
         "volume": 30885735,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-10-31T15:19:00.642978+09:00",
+        "observed_at": "2026-10-31T15:24:07.380710+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -145,17 +145,17 @@
       "krx_pre_open_expected": {
         "market": "KRX",
         "session": "pre_open_expected",
-        "price": null,
+        "price": 225000.0,
         "currency": "KRW",
-        "available": false,
-        "error": "삼성전자 KRX 예상체결가 조회 실패: 조회 처리 중 오류 발생하였습니다. 재 조회 수행 부탁드립니다.",
+        "available": true,
+        "error": null,
         "source": "KIS Open API 주식현재가 호가/예상체결 (J)",
         "source_kind": "official_kis_api",
-        "change": null,
-        "change_pct": null,
-        "expected_volume": 0,
-        "market_operation_code": "",
-        "observed_at": "2026-10-31T15:19:00.642978+09:00",
+        "change": -7000.0,
+        "change_pct": -3.02,
+        "expected_volume": 2417464,
+        "market_operation_code": "112",
+        "observed_at": "2026-10-31T15:24:07.380710+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-10-31T15:19:00.642978+09:00",
+        "observed_at": "2026-10-31T15:24:07.380710+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -201,7 +201,7 @@
     },
     "intraday_estimate_error": null,
     "foreign_broker": null,
-    "member_error": "삼성전자 회원사 수급 조회 실패: 조회 처리 중 오류 발생하였습니다. 재 조회 수행 부탁드립니다.",
+    "member_error": "삼성전자 회원사 수급 조회 실패: SESSION FULL",
     "daily_investor_raw": {
       "query_date": "20261030",
       "output1": {
@@ -3325,9 +3325,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1793427545,
+  "generated_at_epoch": 1793427851,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1793427545",
-  "updated_at": "2026-10-31 15:19:05 KST",
-  "updated_at_utc": "2026-10-31T06:19:05.241916+00:00"
+  "cache_bust_hint": "1793427851",
+  "updated_at": "2026-10-31 15:24:11 KST",
+  "updated_at_utc": "2026-10-31T06:24:11.698983+00:00"
 }
