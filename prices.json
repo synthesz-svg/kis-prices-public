@@ -2,7 +2,7 @@
   "samsung": {
     "symbol": "005930",
     "name": "삼성전자",
-    "price": 213750.0,
+    "price": 214750.0,
     "currency": "KRW",
     "error": null,
     "source": "KIS Open API"
@@ -101,24 +101,24 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-11-04T14:13:36.348767+09:00",
+    "queried_at": "2026-11-04T14:18:51.248219+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
       "nxt": {
         "market": "NXT",
         "session": "NXT extended/regular",
-        "price": 214000.0,
+        "price": 214750.0,
         "currency": "KRW",
         "available": true,
         "error": null,
         "source": "KIS Open API 주식현재가 시세2 (NX)",
         "source_kind": "official_kis_api",
-        "change": -5500.0,
-        "change_pct": -2.51,
-        "volume": 8988217,
+        "change": -4750.0,
+        "change_pct": -2.16,
+        "volume": 9128164,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-11-04T14:13:36.348767+09:00",
+        "observed_at": "2026-11-04T14:18:51.248219+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "session_phase": "main_market",
@@ -127,17 +127,17 @@
       "integrated": {
         "market": "KRX+NXT",
         "session": "integrated",
-        "price": 213750.0,
+        "price": 214500.0,
         "currency": "KRW",
         "available": true,
         "error": null,
         "source": "KIS Open API 주식현재가 시세2 (UN)",
         "source_kind": "official_kis_api",
-        "change": -5750.0,
-        "change_pct": -2.62,
-        "volume": 25069428,
+        "change": -5000.0,
+        "change_pct": -2.28,
+        "volume": 25571797,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-11-04T14:13:36.348767+09:00",
+        "observed_at": "2026-11-04T14:18:51.248219+09:00",
         "timezone": "Asia/Seoul",
         "session_active": true,
         "usable_now": true
@@ -155,7 +155,7 @@
         "change_pct": 3.19,
         "expected_volume": 309925,
         "market_operation_code": "112",
-        "observed_at": "2026-11-04T14:13:36.348767+09:00",
+        "observed_at": "2026-11-04T14:18:51.248219+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-11-04T14:13:36.348767+09:00",
+        "observed_at": "2026-11-04T14:18:51.248219+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -234,19 +234,19 @@
     "symbol": "005930",
     "name": "삼성전자 수급",
     "intraday_estimate": {
-      "estimate_slot": "4",
-      "foreign_net_qty": -2257000,
-      "institution_net_qty": 290000,
-      "total_net_qty": -1967000
+      "estimate_slot": "5",
+      "foreign_net_qty": -2376000,
+      "institution_net_qty": 372000,
+      "total_net_qty": -2004000
     },
     "intraday_estimate_error": null,
     "foreign_broker": {
       "foreign_broker_buy_qty": 292365,
-      "foreign_broker_sell_qty": 1734289,
-      "foreign_broker_net_qty": -1441924,
-      "foreign_buy_ratio_pct": 1.82,
-      "foreign_sell_ratio_pct": 10.78,
-      "accumulated_volume": 16081881
+      "foreign_broker_sell_qty": 1777764,
+      "foreign_broker_net_qty": -1485399,
+      "foreign_buy_ratio_pct": 1.78,
+      "foreign_sell_ratio_pct": 10.81,
+      "accumulated_volume": 16443440
     },
     "member_error": null,
     "daily_investor_raw": {
@@ -3372,9 +3372,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1793769228,
+  "generated_at_epoch": 1793769540,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1793769228",
-  "updated_at": "2026-11-04 14:13:48 KST",
-  "updated_at_utc": "2026-11-04T05:13:48.645692+00:00"
+  "cache_bust_hint": "1793769540",
+  "updated_at": "2026-11-04 14:19:00 KST",
+  "updated_at_utc": "2026-11-04T05:19:00.167663+00:00"
 }
