@@ -101,7 +101,7 @@
   "samsung_reference": {
     "symbol": "005930",
     "name": "삼성전자 장전·장후 참고시세",
-    "queried_at": "2026-11-07T15:35:57.808016+09:00",
+    "queried_at": "2026-11-07T15:41:06.275898+09:00",
     "timezone": "Asia/Seoul",
     "regular_market": "KRX",
     "live": {
@@ -118,7 +118,7 @@
         "change_pct": -4.02,
         "volume": 20631577,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-11-07T15:35:57.808016+09:00",
+        "observed_at": "2026-11-07T15:41:06.275898+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "session_phase": "closed",
@@ -137,7 +137,7 @@
         "change_pct": -4.02,
         "volume": 56147847,
         "reported_market_name": "KOSPI200",
-        "observed_at": "2026-11-07T15:35:57.808016+09:00",
+        "observed_at": "2026-11-07T15:41:06.275898+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -155,7 +155,7 @@
         "change_pct": -6.2,
         "expected_volume": 191,
         "market_operation_code": "112",
-        "observed_at": "2026-11-07T15:35:57.808016+09:00",
+        "observed_at": "2026-11-07T15:41:06.275898+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -173,7 +173,7 @@
         "change_pct": 0.0,
         "volume": 0,
         "expected_price": null,
-        "observed_at": "2026-11-07T15:35:57.808016+09:00",
+        "observed_at": "2026-11-07T15:41:06.275898+09:00",
         "timezone": "Asia/Seoul",
         "session_active": false,
         "usable_now": false
@@ -210,7 +210,7 @@
     },
     "member_error": null,
     "daily_investor_raw": {
-      "query_date": "20261106",
+      "query_date": "20261107",
       "output1": {
         "stck_prpr": "193500",
         "prdy_vrss": "-8000",
@@ -3313,9 +3313,9 @@
         }
       ]
     },
-    "daily_investor_error": "삼성전자 일별 투자자수급 조회 실패: TIME LIMIT 00:00 ~ 15:40",
-    "daily_investor_source": "cache",
-    "daily_investor_saved_at": "2026-11-06T23:59:23.300549+09:00",
+    "daily_investor_error": null,
+    "daily_investor_source": "live",
+    "daily_investor_saved_at": "2026-11-07T15:41:08.023371+09:00",
     "source": "KIS Open API",
     "note": "장중 외국인/기관 추정과 외국계 전체 매수·매도·순매수만 요약합니다. 특정 외국계 회원사명은 장중 순위가 변하므로 저장하지 않습니다. 일별 확정 수급은 KIS 조회 가능 시간에 성공한 원본을 캐시해 유지합니다."
   },
@@ -3332,9 +3332,9 @@
     "source": "CNN Fear & Greed Index"
   },
   "schema_version": 8,
-  "generated_at_epoch": 1794033362,
+  "generated_at_epoch": 1794033670,
   "freshness_max_age_seconds": 600,
-  "cache_bust_hint": "1794033362",
-  "updated_at": "2026-11-07 15:36:02 KST",
-  "updated_at_utc": "2026-11-07T06:36:02.074246+00:00"
+  "cache_bust_hint": "1794033670",
+  "updated_at": "2026-11-07 15:41:10 KST",
+  "updated_at_utc": "2026-11-07T06:41:10.696897+00:00"
 }
